@@ -105,7 +105,11 @@ plot_count_ensemble.mod <- function (count_ensemble, times, use_ggplot2 = FALSE,
 ```
 
 ```{r}
-SARD.df <- read.csv("SARD_Mar2021_14C.csv")
+dir <- here::here()
+```
+
+```{r}
+SARD.df <- read.csv(paste0(dir,"/data/SARD_Mar2021_14C.csv"))
 
 SARD.df |>
   rename(site = X.Site,
@@ -134,7 +138,7 @@ sard.map |> dplyr::select(X.Site, DecdegS, DecdegE,
                           Archaeological.Sub.chronology) |>
   rename(site = X.Site, lat = DecdegS, lon = DecdegE,
          `Technological Complex` = Archaeological.Sub.chronology)-> SARD.out
-write.csv(SARD.out, "Radiocarbon_data_uncalib.csv", sep = ",")
+write.csv(SARD.out, paste0(dir,"/data/Radiocarbon_data_uncalib.csv"), sep = ",")
 
 
 ```
@@ -190,7 +194,7 @@ SARD_All_Oak |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_All_Oak_RFZ
-write.csv(SARD_All_Oak_RFZ, "SARD_All_Oak_WRZ.csv")
+write.csv(SARD_All_Oak_RFZ, paste0(dir,"/data/SARD_All_Oak_WRZ.csv"))
 
 # Only sites associated with Oakhurst
 SARD_Oak_trimmed |> 
@@ -198,7 +202,7 @@ SARD_Oak_trimmed |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_Oak_RFZ
-write.csv(SARD_Oak_RFZ, "SARD_Oak_WRZ.csv")
+write.csv(SARD_Oak_RFZ, paste0(dir,"/data/SARD_Oak_WRZ.csv"))
 
 
 # All dates within Wilton range
@@ -207,7 +211,7 @@ SARD_All_Wil |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_All_Wil_RFZ
-write.csv(SARD_All_Wil_RFZ, "SARD_All_Wil_WRZ.csv")
+write.csv(SARD_All_Wil_RFZ, paste0(dir,"/data/SARD_All_Wil_WRZ.csv"))
 
 # Only sites associated with Wilton
 SARD_Wil_trimmed |> 
@@ -215,7 +219,7 @@ SARD_Wil_trimmed |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_Wil_RFZ
-write.csv(SARD_Wil_RFZ, "SARD_Wil_WRZ.csv")
+write.csv(SARD_Wil_RFZ, paste0(dir,"/data/SARD_Wil_WRZ.csv"))
 ```
 
 ## Summer Rainfall Zone
@@ -227,7 +231,7 @@ SARD_All_Oak |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_All_Oak_RFZ
-write.csv(SARD_All_Oak_RFZ, "SARD_All_Oak_SRZ.csv")
+write.csv(SARD_All_Oak_RFZ, paste0(dir,"/data/SARD_All_Oak_SRZ.csv"))
 
 # Only sites associated with Oakhurst
 SARD_Oak_trimmed |> 
@@ -235,7 +239,7 @@ SARD_Oak_trimmed |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_Oak_RFZ
-write.csv(SARD_Oak_RFZ, "SARD_Oak_SRZ.csv")
+write.csv(SARD_Oak_RFZ, paste0(dir,"/data/SARD_Oak_SRZ.csv"))
 
 
 # All dates within Wilton range
@@ -244,7 +248,7 @@ SARD_All_Wil |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_All_Wil_RFZ
-write.csv(SARD_All_Wil_RFZ, "SARD_All_Wil_SRZ.csv")
+write.csv(SARD_All_Wil_RFZ, paste0(dir,"/data/SARD_All_Wil_SRZ.csv"))
 
 # Only sites associated with Wilton
 SARD_Wil_trimmed |> 
@@ -252,7 +256,7 @@ SARD_Wil_trimmed |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_Wil_RFZ
-write.csv(SARD_Wil_RFZ, "SARD_Wil_SRZ.csv")
+write.csv(SARD_Wil_RFZ, paste0(dir,"/data/SARD_Wil_SRZ.csv"))
 ```
 
 ## Year-round Rainfall Zone
@@ -264,7 +268,7 @@ SARD_All_Oak |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_All_Oak_RFZ
-write.csv(SARD_All_Oak_RFZ, "SARD_All_Oak_YRZ.csv")
+write.csv(SARD_All_Oak_RFZ, paste0(dir,"/data/SARD_All_Oak_YRZ.csv"))
 
 # Only sites associated with Oakhurst
 SARD_Oak_trimmed |> 
@@ -272,7 +276,7 @@ SARD_Oak_trimmed |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_Oak_RFZ
-write.csv(SARD_Oak_RFZ, "SARD_Oak_YRZ.csv")
+write.csv(SARD_Oak_RFZ, paste0(dir,"/data/SARD_Oak_YRZ.csv"))
 
 
 # All dates within Wilton range
@@ -281,7 +285,7 @@ SARD_All_Wil |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_All_Wil_RFZ
-write.csv(SARD_All_Wil_RFZ, "SARD_All_Wil_YRZ.csv")
+write.csv(SARD_All_Wil_RFZ, paste0(dir,"/data/SARD_All_Wil_YRZ.csv"))
 
 # Only sites associated with Wilton
 SARD_Wil_trimmed |> 
@@ -289,7 +293,7 @@ SARD_Wil_trimmed |>
   dplyr::select(site, Lab.ID, c14age,
                 c14std, culture, lat, lon, Material.dated) |>
   arrange(desc(c14age)) -> SARD_Wil_RFZ
-write.csv(SARD_Wil_RFZ, "SARD_Wil_YRZ.csv")
+write.csv(SARD_Wil_RFZ, paste0(dir,"/data/SARD_Wil_YRZ.csv"))
 ```
 
 ### Site Selection Based on Oakhurst and Wilton Technology
