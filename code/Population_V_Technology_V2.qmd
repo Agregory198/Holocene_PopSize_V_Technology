@@ -299,6 +299,9 @@ write.csv(SARD_Wil_RFZ, paste0(dir,"/data/SARD_Wil_YRZ.csv"))
 ### Site Selection Based on Oakhurst and Wilton Technology
 
 ```{r}
+#| include: false
+
+
 SARD |> group_by(site, culture) |> filter(culture == "Oakhurst" | culture == "Wilton") |> 
   dplyr::distinct(site, culture) |>
   mutate(cult = ifelse(culture == "Oakhurst", 1, 2)) |>
@@ -349,9 +352,12 @@ SARD |>
 ```
 
 ```{r compare_Elands_Nelson}
-Nel <- read.delim("NonLithics_NBC.txt", sep = ",")
+#| include: false
+
+
+Nel <- read.delim(paste0(dir,"/data/NonLithics_NBC.txt"), sep = ",")
 Nel <- tibble(
-  Artifact = c("Beads", "Beads/excavatedArea" "Bead_Frag", "Scraper"),
+  Artifact = c("Beads", "Beads/excavatedArea", "Scraper"),
   `22-62` = c(458, 0.132, 105.9),
   `64-139` = c(53, 0.051, 63.5),
   `135-148` = c(23, 0.150, 5.3)
@@ -395,132 +401,6 @@ SARD.ckde <- ckde(randates, timeRange = c(17000, 2000), bw = 200)
 plot(SARD.ckde, type = "multiline")
 
 plot(spd(caldates, bins, timeRange = c(17000,2000)), add = F)
-```
-
-# Climate Data
-
-```{r}
-# Nitrogen values
-N15 <- read.csv("d15N.csv") |>
-  as_tibble() |>
-  rename(Date_BP = Cal.BP..wmean.,
-         LowerCI = X2.5.percentile,
-         UpperCI = X97.5.percentile) |>
-  dplyr::select(Date_BP, LOESS, LowerCI, UpperCI)
-
-# Carbon values
-C13 <- read.csv("d13C.csv") |>
-  as_tibble() |>
-  rename(Date_BP = Cal.BP..wmean.,
-         LowerCI = X2.5.percentile,
-         UpperCI = X97.5.percentile) |>
-  dplyr::select(Date_BP, LOESS, LowerCI, UpperCI)
-
-# Relative Sea Level values from Ramsay, 1996 and Compton, 2001
-RSL <- tibble(
-  Source = c(rep("Ramsay", 18),
-             rep("Compton", 10),
-             rep("Baxter", 6)),
-             #rep("Cooper et al.", 4)),
-  ID = c(c(1:18), c(19:28), c(29:34)),
-         #c(35:38)),
-  c14age = c(910,920,1610,3360,3740,3780,4350,4480,4650,4660,6460,7840,8950,
-              1450,3820,3880,4240,5080,
-             4260,560,840,4850,450,1390,3470,2920,4510,6460,
-             1900,3640,4340,5490,7430,7840),
-             #9990, 9350,8950,11690),
-  c14std = c(120,140,70,60,60,60,60,70,60,50,80,90,80,
-                 50,50,60,60,70,
-             80,45,45,70,70,50,60,50,50,70,
-             60,60,60,80,80,110),
-             #30,90,30,90),
-  RSL = c(0,0,1.5,0,1.49,0,1.61,3.5,2.75,2,0,-1,-10,
-          1.6,2.8,0,2,1.5,
-          -0.35,-0.2,-0.5,0.5,-0.4,0.35,0.25,0.25,0,1.5,
-          -0.5,-0.35,-1.2,-0.15,-2.65, -3.5)) |>
-          #-45.5,-41.5,-25.5,-65.90)) |>
-  c14bazAAR::as.c14_date_list() |>
-  c14bazAAR::calibrate() |>
-  unnest(cols = c(calrange)) |>
-  filter(dens > 50) |>
-  group_by(ID) |>
-  mutate(Date_BP = mean(from + to)/2)
-
-
-# Frequency of Oakhurst and Wilton
-SARD.df |>
-  as_tibble() |>
-  filter(Archaeological.Sub.chronology %in% c("Oakhurst", "Wilton")) |>
-  rename(Tech = Archaeological.Sub.chronology) |>
-  rename(c14age = Date, c14std = Uncertainty) |>
-  as.c14_date_list() |>
-  c14bazAAR::calibrate() |>
-  unnest() |>
-  group_by(Lab.ID) |>
-  slice_max(dens) |>
-  filter(to < 16000 & to > 2000) |>
-  group_by(Lab.ID,Tech) |>
-  summarize(c = c(from:to)) -> SARD.Tech
-
-```
-
-```{r}
-N15 |>
-  filter(Date_BP <= 12500) |>
-  ggplot()+
-  geom_smooth(aes(x = Date_BP, y = LOESS), se = F, col="darkblue",
-              linewidth = 0.5)+
-  geom_line(aes(x = Date_BP, y = LOESS), col="darkblue")+
-  #geom_smooth(aes(x = Date_BP, y = LowerCI, col = "red"), se = F)+
-  #geom_smooth(aes(x = Date_BP, y = UpperCI, col = "red"), se = F)+
-  ylab(expression(delta^15~"Nitrogen"))+xlab("")+
-  theme(text = element_text(size = 17))+
-  xlim(0, 12000) -> N15Graph
-
-C13 |>
-  filter(Date_BP <= 12000) |>
-  ggplot()+
-  geom_smooth(aes(x = Date_BP, y = LOESS), se = F, col="darkorange",
-              linewidth = 0.5)+
-  geom_line(aes(x = Date_BP, y = LOESS), col="darkorange")+
-  #geom_smooth(aes(x = Date_BP, y = LowerCI, col = "red"), se = F)+
-  #geom_smooth(aes(x = Date_BP, y = UpperCI, col = "red"), se = F)+
-  ylab(expression(delta^13~"Carbon"))+xlab("")+
-  theme(text = element_text(size = 17))+
-  xlim(0, 12000) -> C13Graph
-
-
-RSL |>
-  ungroup()|>
-  add_row(c14age = NA, c14std = NA, dens = 100, from = NA, to = NA, sigma = NA,
-          Source = "Modern", ID = 35, RSL = 0, Date_BP = 0) |>
-  filter(Source != "Ramsay") |>
-  ggplot(aes(x = Date_BP, y = RSL))+
-  
-  geom_smooth(formula = y~poly(x,2), se=F, col="darkblue",
-              linewidth = 0.5)+
-  geom_point()+
-  geom_line()+
-  
-  geom_hline(aes(yintercept = 0), lty = 2, col = "darkred")+
-  
-  geom_errorbar(aes(xmin=from, xmax=to), width=.1)+
-  ylab("Relative sea level\n(meters)")+xlab("")+
-  theme(text = element_text(size = 17))+
-  xlim(0, 12000) -> RSLGraph
-
-SARD.Tech |>
-  ggplot(aes(x = c, fill = Tech, alpha = 0.1))+
-  geom_density()+
-  scale_fill_manual(values = c("#FFA07A", "#eedd82"))+
-  guides(fill = guide_legend(title = NULL), alpha = "none")+
-  ylab("Density")+xlab("Calibrated years BP")+
-  theme(text = element_text(size = 17))+
-  xlim(0, 18000)-> TechGraph
-
-cowplot::plot_grid(N15Graph, C13Graph, RSLGraph, TechGraph,
-                   labels = c("A", "B", "C", "D"), label_x = 0.9,
-                               align = "v", ncol=1)
 ```
 
 # Figure 2: Example Summed Distribution
@@ -1337,5 +1217,3 @@ abline(v = quant.1[2], col = "blue")
 as.data.frame(mcmc_samples[,2]) |>
   dplyr::summarize(prob_greater_0 = mean(mcmc_samples[,2] > 0))
 ```
-
-# 
