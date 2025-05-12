@@ -351,31 +351,10 @@ SARD |>
   geom_point(aes(x = lon, y = lat, color = site))
 ```
 
-```{r compare_Elands_Nelson}
+```{r compare_ElandsBayCave}
 #| include: false
 
-
-Nel <- read.delim(paste0(dir,"/data/NonLithics_NBC.txt"), sep = ",")
-Nel <- tibble(
-  Artifact = c("Beads", "Beads/excavatedArea", "Scraper"),
-  `22-62` = c(458, 0.132, 105.9),
-  `64-139` = c(53, 0.051, 63.5),
-  `135-148` = c(23, 0.150, 5.3)
-)
-
-Nel <- tibble(
-  Artifact = c("Beads", "Ochre", "Processing Tools", "Fish Gorges", "VOlume"),
-  IC = c(1,NA,NA,0,NA),
-  BSC = c(0,NA,NA,0,NA),
-  RA = c(0,NA,NA,6,NA),
-  RB = c(1,NA,NA,4,NA),
-  J = c(0,NA,NA,3,NA),
-  BSBJ = c(0,NA,NA,22,NA),
-  CS = c(1,NA,NA,25,NA),
-  GSL = c(1,NA,NA,1,NA)
-)
-
-
+# Take lithic data from Orton, 2006 and non-lithic data from Jerardino, 2021
 El <- tibble(
   Artifact = c("Beads", "Ochre", "Processing Tools", "Fish Gorges", "VOlume"),
   
@@ -384,6 +363,11 @@ El <- tibble(
   `14-15` = c(60.6, 16.3, 2.5, 1.5, 2.7),
   `16` = c(68, 25, 2.8, 0, 1),
   `17-19` = c(37.8, 4.3, 1.4, 0, 2.3))
+
+El_dates <- tibble(
+  STRAT = c(10, "11-13", "14-15", 16, "17-19"),
+  Dtae = c("8.7-9.8", "9.8-10.9", "10.6-12.6", "11.6-13.2", "14.6-15.9")
+)
 
 #### Scrapppppz
 SARD.hol <- SARD |> filter(c14age < 16450 & c14age > 2220 &
