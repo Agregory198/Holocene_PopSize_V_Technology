@@ -1,0 +1,469 @@
+"","site","Lab.ID","c14age","c14std","culture","lat","lon","Material.dated","Samp"
+"1","Kruger Cave","KRU-5",6760,100,"Oakhurst",-25.75,27.25,"",1
+"2","Cauldwell Shelter","Pta-371",6750,70,"",-26.333,31.167,"charcoal",2
+"3","Tshisiku Shelter","Pta-8709",6750,60,"Wilton",-22.233,29.148,"",3
+"4","Blombosfontein 2","Pta-6181",6740,70,"Wilton",-34.4,21.217,"marine shell",1
+"5","Cave James","Wits-1747",6740,270,"",-25.683,27.983,"",2
+"6","Matjies River","Pta-6811 ",6720,25,"Wilton",-34.017,23.417,"charcoal",3
+"7","Kruger Cave","KRU-4",6690,100,"Oakhurst",-25.75,27.25,"",1
+"8","Siphiso","TX-5623",6680,160,"Wilton",-26.3,31.967,"eggshell",2
+"9","Siphiso","TX-5625",6670,90,"Wilton",-26.3,31.967,"eggshell",3
+"10","Nkupe Shelter","Pta-3455",6650,80,"Wilton",-28.147,29.937,"charcoal",1
+"11","Kruger Cave","KRU-3",6620,120,"Oakhurst",-25.75,27.25,"",2
+"12","Havens Cave","Pta-3919",6610,90,"Wilton",-33.667,24.35,"",3
+"13","Kangkara Cave","Pta-2287 ",6600,75,"Wilton",-33.783,23.083,"bone",1
+"14","Kruger Cave","KRU-2",6600,110,"Oakhurst",-25.75,27.25,"",2
+"15","Mgede Shelter","Pta-3508",6550,70,"Wilton",-28.17,29.687,"charcoal",3
+"16","Byneskranskop 1","Pta-1905 ",6540,55,"Wilton",-34.583,19.467,"",1
+"17","Siphiso","TX-5624",6540,100,"Wilton",-26.3,31.967,"snail",2
+"18","Tsisab Schlucht","Pta-1547",6510,80,"",-21.1,14.683,"charcoal",3
+"19","Mirabib Hill Shelter","Pta-1536",6500,80,"",-23.463,15.325,"charcoal",1
+"20","Jubilee Shelter","Wits-1462",6490,200,"Wilton",-25.683,27.983,"charcoal",2
+"21","Nswatugi Cave","Pta-1768",6490,70,"",-20.533,28.467,"charcoal",3
+"22","Apollo 11 Cave","Pta-1019",6480,80,"Wilton",-27.75,17.1,"charcoal",1
+"23","Grassridge","Beta-532051",6470,30,"Wilton",-31.567,26.85,"charcoal",2
+"24","Mirabib Hill Shelter","Pta-1012",6470,80,"",-23.463,15.325,"charcoal",3
+"25","Groot Kommandokloof Shelter","Pta-4612",6430,70,"",-33.4,24.07,"other",1
+"26","Boomplaas","UW-306",6400,75,"Wilton",-33.383,22.183,"",2
+"27","Byneskranskop 1","Pta-1772 ",6370,90,"Wilton",-34.583,19.467,"",3
+"28","Grassridge","Beta-532052",6360,30,"Wilton",-31.567,26.85,"charcoal",1
+"29","Grassridge","UCI-209045",6355,25,"Wilton",-31.567,26.85,"charcoal",2
+"30","Voigtspost 1","Pta-1530",6350,70,"Oakhurst",-29.117,25.433,"eggshell",3
+"31","Mirabib Hill Shelter","Pta-1347",6330,60,"",-23.463,15.325,"charcoal",1
+"32","Grassridge","Pta-2952",6300,60,"",-31.567,26.85,"",2
+"33","Maqonqo Shelter","Pta-6258 ",6300,80,"Wilton",-28.344,30.424,"charcoal",3
+"34","Uniondale","Pta-4334",6300,200,"Wilton",-33.15,26.383,"",1
+"35","Grassridge","Pta-2713",6280,70,"",-31.567,26.85,"",2
+"36","Colwinton","Pta-2550",6270,40,"Wilton",-31.15,27.767,"charcoal",3
+"37","Apollo 11 Cave","KN-I-609",6200,65,"Wilton",-27.75,17.1,"charcoal",1
+"38","Grassridge","CAMS-170784",6200,35,"Wilton",-31.567,26.85,"charcoal",2
+"39","Havens Cave","Pta-3917 ",6190,80,"Wilton",-33.667,24.35,"",3
+"40","Oakhurst","Pta-3178",6180,70,"",-33.933,22.617,"bone",1
+"41","Rooikrans","Wits-2003",6150,100,"Wilton",-27.033,27.367,"bone",2
+"42","Tloutle","Pta-5158 ",6140,100,"Wilton",-29.467,27.767,"charcoal",3
+"43","Dune Field Midden","CAMS-113296",6135,40,"Wilton",-32.301,18.348,"eggshell",1
+"44","Cave James","Wits-1744 ",6130,110,"Wilton",-25.683,27.983,"",2
+"45","Byneskranskop 1","UW-409 ",6100,140,"Wilton",-34.583,19.467,"",3
+"46","Grassridge","UCI-209044",6100,15,"Wilton",-31.567,26.85,"charcoal",1
+"47","Grassridge","Pta-2970",6090,80,"",-31.567,26.85,"",2
+"48","Grassridge","UCI-209043",6085,15,"Wilton",-31.567,26.85,"charcoal",3
+"49","Nelson Bay Cave","UW-222",6070,125,"Wilton",-34.101,23.378,"charcoal",1
+"50","Steenbokfontein","Pta-6808",6070,80,"Wilton",-32.162,18.333,"charcoal",2
+"51","Nelson Bay Cave","UW-186 ",6050,80,"Wilton",-34.101,23.378,"sediments",3
+"52","Byneskranskop 1","OxA-32682",6048,33,"Wilton",-34.583,19.467,"bone",1
+"53","Grassridge","UCI-209042",6040,15,"Wilton",-31.567,26.85,"charcoal",2
+"54","Nelson Bay Cave","UW-176 ",6020,160,"Wilton",-34.101,23.378,"charcoal",3
+"55","Grassridge","UCI-209041",6015,15,"Wilton",-31.567,26.85,"charcoal",1
+"56","Oakhurst","Pta-4426",5990,70,"",-33.933,22.617,"bone",2
+"57","Rose Cottage Cave","Pta-5934 ",5970,70,"Wilton",-29.25,27.5,"charcoal",3
+"58","Wonderwerk","Pta-2545",5970,70,"",-27.846,23.555,"charcoal",1
+"59","Blombosfontein 3","Pta-6180",5960,70,"Wilton",-34.4,21.217,"marine shell",2
+"60","Sehonghong","Pta-6154",5950,70,"Wilton",-29.75,28.75,"",3
+"61","Wonderwerk","Pta-2140",5930,50,"",-27.846,23.555,"eggshell",1
+"62","Wonderwerk","OxA-30642",5915,34,"",-27.846,23.555,"charcoal ",2
+"63","Ballito Bay","Pta-5794",5900,110,"",-29.52,31.229,"bone",3
+"64","Melkhoutboom","Pta-680 ",5900,90,"Wilton",-33.317,25.283,"",1
+"65","Banda Cave","Y-1714",5890,80,"",-26.2,31.033,"charcoal",2
+"66","Nelson Bay Cave","Pta-2909 ",5890,70,"Wilton",-34.101,23.378,"charcoal",3
+"67","Byneskranskop 1","OxA-32683",5872,33,"Oakhurst",-34.583,19.467,"bone",1
+"68","Sehonghong","Wk-34787",5870,25,"",-29.75,28.75,"bone",2
+"69","Nelson Bay Cave","Pta-2915 ",5860,70,"Wilton",-34.101,23.378,"charcoal",3
+"70","Nelson Bay Cave","UW-216 ",5830,115,"Wilton",-34.101,23.378,"charcoal",1
+"71","Nelson Bay Cave","UW-187 ",5825,150,"Wilton",-34.101,23.378,"sediments",2
+"72","Havens Cave","Pta-3915",5820,80,"Oakhurst",-33.667,24.35,"",3
+"73","Wonderwerk","Pta-3427",5800,70,"",-27.846,23.555,"",1
+"74","Wonderwerk","OxA-30641",5771,34,"",-27.846,23.555,"charcoal ",2
+"75","Nkupe Shelter","Pta-3460 ",5760,70,"Wilton",-28.147,29.937,"charcoal",3
+"76","Kabeljous River Shelter","Pta-4061",5750,80,"Wilton",-33.967,24.917,"",1
+"77","Cha-re Shelter","Pta-2075",5740,60,"",-23.65,15.917,"charcoal",2
+"78","Cymot Shelter","SR-88",5740,110,"",-21.917,14.783,"charcoal",3
+"79","Matjies River","Pta-6917 ",5720,70,"Wilton",-34.017,23.417,"marine shell",1
+"80","Siphiso","TX-5621",5710,280,"Wilton",-26.3,31.967,"bone",2
+"81","Diaz Street Midden","UGAMS-2805",5690,40,"",-33.009,17.94,"marine shell",3
+"82","Gehle Shelter","Pta-3585",5690,70,"Wilton",-29.13,29.906,"",1
+"83","Byneskranskop 1","OxA-32679",5684,32,"Wilton",-34.583,19.467,"bone",2
+"84","Blombosfontein 4","Pta-6176",5680,70,"Wilton",-34.4,21.217,"marine shell",3
+"85","Maqonqo Shelter","Pta-6253 ",5680,70,"Wilton",-28.344,30.424,"charcoal",1
+"86","Wilde Als Put 2","Pta-4223",5630,170,"Oakhurst",-30.383,23.8,"eggshell",2
+"87","Wonderwerk","OxA-30640",5627,33,"",-27.846,23.555,"charcoal ",3
+"88","Byneskranskop 1","OxA-32681",5589,34,"Wilton",-34.583,19.467,"bone",1
+"89","Mirabib Hill Shelter","Pta-1348",5570,50,"",-23.463,15.325,"charcoal",2
+"90","N2005/1, Sesfontein","KIA-29629-2",5550,30,"",-19.083,13.35,"charcoal",3
+"91","Tortoise Cave","Pta-5981",5530,30,"Wilton",-32.341,18.399,"marine shell",1
+"92","Blombosfontein 5","Pta-6182 ",5520,70,"Wilton",-34.4,21.217,"marine shell",2
+"93","Equus Cave","Pta-2791",5460,70,"",-27.617,24.633,"eggshell",3
+"94","Buzz Shelter","AA-89912",5452,54,"",-31.524,18.6,"bone",1
+"95","Oakhurst","Pta-4367",5450,70,"",-33.933,22.617,"bone",2
+"96","Tshisiku Shelter","Pta-8652 ",5440,60,"Wilton",-22.233,29.148,"",3
+"97","Byneskranskop 1","OxA-32678",5428,33,"Wilton",-34.583,19.467,"bone",1
+"98","Matjies River","L-336F",5400,250,"Wilton",-34.017,23.417,"",2
+"99","Namtib","Pta-1186",5400,70,"",-26.033,16.25,"charcoal",3
+"100","Kruger Cave","KRU-1",5400,160,"Oakhurst",-25.75,27.25,"",1
+"101","Deurspring 16","Pta-7132",5390,70,"",-32.006,18.305,"marine shell",2
+"102","Matjies River","Pta-6975 ",5390,70,"Wilton",-34.017,23.417,"",3
+"103","Mitchell's Bay 2005/005B","GX-32526",5390,70,"",-30.468,17.36,"",1
+"104","Matjies River","Pta-6976 ",5370,70,"Wilton",-34.017,23.417,"",2
+"105","Kangkara Cave","Pta-2286 ",5355,55,"Wilton",-33.783,23.083,"bone",3
+"106","Wonderwerk","OxA-30638",5340,33,"",-27.846,23.555,"charcoal ",1
+"107","Oakhurst","Pta-3719",5330,60,"",-33.933,22.617,"bone",2
+"108","Nelson Bay Cave","Pta-2933 ",5320,220,"Wilton",-34.101,23.378,"charcoal",3
+"109","Matjies River","UCLA-1746-C-1 ",5310,60,"Wilton",-34.017,23.417,"",1
+"110","Diaz Street Midden","UGAMS-2806",5300,40,"",-33.009,17.94,"marine shell",2
+"111","Byneskranskop 1","OxA-32680",5263,33,"Wilton",-34.583,19.467,"bone",3
+"112","Jubilee Shelter","Wits-1450 ",5250,129,"Wilton",-25.683,27.983,"charcoal",1
+"113","Aspoort Cave","Pta-2179",5220,60,"",-32.5,19.519,"charcoal",2
+"114","Leliehoek","Wits-2010",5210,100,"Wilton",-29.117,27.25,"eggshell",3
+"115","Mirabib Hill Shelter","Pta-1011",5190,80,"",-23.463,15.325,"charcoal",1
+"116","Wonderwerk","Pta-2544",5180,70,"",-27.846,23.555,"",2
+"117","Doorspring 1","Pta-6740",5130,50,"",-32,18.3,"marine shell",3
+"118","Buffelskloof","Pta-1481",5120,65,"Wilton",-33.667,21.867,"",1
+"119","Tloutle","OxA-4068",5080,80,"",-29.467,27.767,"bone",2
+"120","Wonderwerk","OxA-31897",5063,30,"",-27.846,23.555,"charcoal ",3
+"121","Equus Cave","Pta-2789",5060,60,"",-27.617,24.633,"eggshell",1
+"122","Oakhurst","AA-2117",4995,215,"",-33.933,22.617,"bone",2
+"123","Nelson Bay Cave","OxA-32448",4968,31,"Wilton",-34.101,23.378,"bone",3
+"124","Jakkalsberg N","GX-32755",4960,40,"Wilton",-28.181,16.885,"marine shell",1
+"125","Maqonqo Shelter","Pta-6255 ",4960,70,"Wilton",-28.344,30.424,"charcoal",2
+"126","Diamond Shelter","Pta-3246",4900,60,"Wilton",-28.492,28.948,"charcoal",3
+"127","Oakhurst","Pta-4467",4900,60,"",-33.933,22.617,"bone",1
+"128","Wonderwerk","Pta-2797",4890,70,"",-27.846,23.555,"",2
+"129","Wonderwerk","OxA-30639",4887,33,"",-27.846,23.555,"charcoal ",3
+"130","Oakhurst","Pta-4347",4880,70,"",-33.933,22.617,"bone",1
+"131","Oakhurst","Pta-4348",4880,70,"",-33.933,22.617,"bone",2
+"132","Oakhurst","AA-2119",4870,210,"",-33.933,22.617,"bone",3
+"133","Jakkalsberg N","GX-32754",4860,40,"Wilton",-28.181,16.885,"eggshell",1
+"134","Leliehoek","Wits-2009 ",4860,100,"Wilton",-29.117,27.25,"eggshell",2
+"135","Nelson Bay Cave","OxA-32449",4860,45,"Wilton",-34.101,23.378,"bone",3
+"136","Nelson Bay Cave","UW-217 ",4860,65,"Wilton",-34.101,23.378,"Marine shell",1
+"137","Wilton Large Rock Shelter","I-2565",4860,115,"Wilton",-33.325,26.142,"charcoal",2
+"138","Numas Schlucht Cave (Lower Numas Cave)","Pta-1620",4840,50,"Wilton",-21.117,14.417,"eggshell",3
+"139","Oakhurst","AA-2115",4830,250,"",-33.933,22.617,"bone",1
+"140","Byneskranskop 3","TO-9531",4820,90,"",-34.583,19.467,"bone",2
+"141","Deurspring 16","Pta-7131",4800,60,"",-32.006,18.305,"marine shell",3
+"142","Lithakong","Pta-7075",4790,50,"",-29.457,28.101,"charcoal",1
+"143","Maqonqo Shelter","Pta-5898 ",4790,60,"Wilton",-28.344,30.424,"charcoal",2
+"144","Matjies River","Pta-6856 ",4740,50,"Wilton",-34.017,23.417,"charcoal",3
+"145","Little Witkrans","Pta-2448",4710,65,"",-27.661,24.613,"charcoal",1
+"146","Bonteberg Shelter","SR-167",4690,100,"",-34.2,18.383,"marine shell",2
+"147","Matjies River","Pta-6920",4665,20,"Wilton",-34.017,23.417,"marine shell",3
+"148","Maqonqo Shelter","Pta-6251 ",4640,70,"Wilton",-28.344,30.424,"charcoal",1
+"149","Koingnaas 2001/008C","Pta-9316",4630,70,"",-30.222,17.238,"marine shell",2
+"150","Springbokoog 1","Pta-4091",4630,60,"Wilton",-30.217,21.533,"eggshell",3
+"151","Steenbokfontein","Pta-7323",4620,70,"Wilton",-32.162,18.333,"charcoal",1
+"152","Matjies River","Pta-6877 ",4615,20,"Wilton",-34.017,23.417,"marine shell",2
+"153","Nkupe Shelter","Pta-3276 ",4590,70,"Wilton",-28.147,29.937,"charcoal",3
+"154","Buzz Shelter","AA-89911",4551,54,"",-31.524,18.6,"bone",1
+"155","Kasteelberg G","Pta-8769 ",4550,60,"",-32.733,17.933,"marine shell",2
+"156","Oakhurst","Pta-4449",4530,70,"",-33.933,22.617,"bone",3
+"157","Uniondale","Pta-4322",4520,60,"Wilton",-33.15,26.383,"",1
+"158","Brandsebaai 2","Pta-6053",4510,30,"",-31.35,17.917,"marine shell",2
+"159","Highlands Rock Shelter","Pta-536",4500,60,"Final LSA",-31.664,25.572,"",3
+"160","Jakkalsberg N","Pta-8496 ",4500,50,"Wilton",-28.181,16.885,"",1
+"161","Wonderwerk","OxA-30566",4459,30,"",-27.846,23.555,"charcoal ",2
+"162","Springbokoog 20","Pta-4785",4440,60,"Wilton",-30.217,21.533,"eggshell",3
+"163","Wonderwerk","OxA-30567",4427,29,"",-27.846,23.555,"charcoal ",1
+"164","Faraoskop","Pta-4809",4420,60,"",-32.1253,18.6144,"charcoal",2
+"165","Hope Hill Shelter","Wits-1565",4400,100,"",-26.35,28.833,"",3
+"166","Liphofung","Pta-6109",4390,70,"",-28.753,28.496,"bone",1
+"167","Mgede Shelter","Pta-3505 ",4390,70,"Wilton",-28.17,29.687,"charcoal",2
+"168","Elands Bay Cave","Pta-5313",4370,60,"Wilton",-32.317,18.318,"",3
+"169","Gehle Shelter","Pta-3245 ",4330,60,"Wilton",-29.13,29.906,"",1
+"170","Tortoise Cave","Pta-3605",4330,50,"Wilton",-32.341,18.399,"charcoal",2
+"171","White Paintings Shelter","Beta-47865",4330,160,"",-18.75,21.75,"charcoal",3
+"172","Soutpansklipheuwel86","UGAMS-8567",4310,30,"",-32,18.317,"marine shell",1
+"173","Maqonqo Shelter","Pta-5900 ",4300,20,"Wilton",-28.344,30.424,"charcoal",2
+"174","Blydefontein","SMU-1852",4286,149,"Wilton",-31.133,25.05,"charcoal",3
+"175","Wonderwerk","Pta-2541",4240,60,"",-27.846,23.555,"",1
+"176","Malkoppan","Pta-6220",4230,60,"",-32.134,18.309,"charcoal",2
+"177","Wonderwerk","OxA-30568",4207,30,"",-27.846,23.555,"charcoal ",3
+"178","Amadzimba Cave","BM-57",4200,150,"Wilton",-20.75,28.75,"other",1
+"179","Tortoise Cave","Pta-3608b",4190,60,"Wilton",-32.341,18.399,"charcoal",2
+"180","Buzz Shelter","OxA-22986",4185,31,"",-31.524,18.6,"charcoal",3
+"181","Mitchell's Bay 2005/001E","GX-32757",4180,90,"",-30.469,17.361,"marine shell",1
+"182","Numas Schlucht Cave (Lower Numas Cave)","Pta-1295",4180,60,"Wilton",-21.117,14.417,"charcoal",2
+"183","Mzinyashana Shelter","Pta-6535",4170,130,"Wilton",-28.317,30.467,"",3
+"184","Elands Bay Cave","Pta-5805",4160,60,"Wilton",-32.317,18.318,"",1
+"185","St Francis Bay","Pta-7550",4160,60,"Final LSA",-34.117,24.767,"",2
+"186","Maqonqo Shelter","Pta-6256 ",4140,60,"Wilton",-28.344,30.424,"charcoal",3
+"187","Zoovoorbij","Pta-2889",4140,75,"Wilton",-28.65,20.967,"charcoal",1
+"188","Klasies River Cave 5","GX-1378",4110,105,"",-34.13,24.43,"charcoal",2
+"189","Blydefontein","SMU-1901",4101,273,"Wilton",-31.133,25.05,"charcoal",3
+"190","Oakhurst","Pta-4431",4100,60,"",-33.933,22.617,"bone",1
+"191","Doorspring 1","Pta-6742",4090,35,"",-32,18.3,"marine shell",2
+"192","Jubilee Shelter","Wits-1382 ",4090,80,"Wilton",-25.683,27.983,"charcoal",3
+"193","Maqonqo Shelter","Pta-6245 ",4080,25,"Wilton",-28.344,30.424,"charcoal",1
+"194","Blombosfontein 6","Pta-6178",4070,60,"Wilton",-34.4,21.217,"marine shell",2
+"195","Blydefontein","SMU-1851",4066,55,"Wilton",-31.133,25.05,"charcoal",3
+"196","Tortoise Cave","OxA-477",4050,100,"",-32.341,18.399,"bone",1
+"197","Chicaza","Wk-40713",4048,20,"",-12.89,35.25,"charcoal",2
+"198","Tortoise Cave","Pta-3608a",4020,60,"Wilton",-32.341,18.399,"charcoal",3
+"199","Mzinyashana Shelter","Pta-6540 ",4010,60,"Wilton",-28.317,30.467,"",1
+"200","Shongweni South","Pta-1061",4000,60,"",-29.85,30.717,"plant remains",2
+"201","Steenbokfontein","Pta-6420",3990,60,"Wilton",-32.162,18.333,"charcoal",3
+"202","Wonderwerk","Pta-2785",3990,60,"",-27.846,23.555,"charcoal",1
+"203","N2005/1, Sesfontein","KN-5797",3980,40,"",-19.083,13.35,"charcoal",2
+"204","Castle Quarry","Y-1829",3970,120,"",-26.162,31.059,"charcoal",3
+"205","Bambata Cave","Pta-3111",3960,60,"",-21.51,28.75,"charcoal",1
+"206","Nkupe Shelter","Pta-3275 ",3950,70,"Wilton",-28.147,29.937,"charcoal",2
+"207","Numas Schlucht Cave (Lower Numas Cave)","Pta-1623",3950,60,"Wilton",-21.117,14.417,"charcoal",3
+"208","Soutpansklipheuwel86","UGAMS-10297",3950,25,"",-32,18.317,"marine shell",1
+"209","Elands Bay Cave","Pta-5317",3940,60,"Wilton",-32.317,18.318,"",2
+"210","Zaayfontein","GX-1294",3935,180,"",-30.633,25.5,"charcoal",3
+"211","Byneskranskop 1","Pta-1571 ",3900,60,"Wilton",-34.583,19.467,"",1
+"212","Klasies River Cave 5","Pta-3906",3900,50,"",-34.13,24.43,"charcoal",2
+"213","White Paintings Shelter","UCR-3366",3900,50,"",-18.75,21.75,"eggshell",3
+"214","Buzz Shelter","UGAMS-11683",3890,20,"",-31.524,18.6,"plant remains",1
+"215","Kasteelberg G","Pta-8762",3890,60,"Final LSA",-32.733,17.933,"marine shell",2
+"216","Brandsebaai 2","GX-32063",3870,70,"",-31.35,17.917,"marine shell",3
+"217","Cave James","Wits-1383",3870,50,"",-25.683,27.983,"",1
+"218","Shongweni South","Pta-823",3870,60,"Wilton",-29.85,30.717,"charcoal",2
+"219","White Paintings Shelter","UCR-3368",3860,50,"",-18.75,21.75,"eggshell",3
+"220","Andriesgrond","OxA-457",3850,80,"",-32.194,18.858,"bone",1
+"221","Sikhanyisweni","Pta-3764",3850,60,"",-28.467,30.383,"charcoal",2
+"222","Buffelskloof","UW-341",3840,80,"Wilton",-33.667,21.867,"",3
+"223","Die Toon","Pta-5960",3840,60,"",-28.311,17.283,"",1
+"224","Shongweni North","Pta-4135",3840,50,"",-29.85,30.717,"plant remains",2
+"225","Elands Bay Cave","Pta-1754",3835,50,"",-32.317,18.318,"bone",3
+"226","Toteng 7","Beta-96239",3830,100,"",-20.38,22.95,"charcoal",1
+"227","KwaThwaleyakhe","Pta-5351",3810,60,"",-28.914,30.444,"charcoal",2
+"228","Mitchell's Bay 2005/001E","GX-32756",3810,145,"",-30.469,17.361,"marine shell",3
+"229","Elands Bay Cave","Pta-1816",3780,85,"Wilton",-32.317,18.318,"plant remains",1
+"230","Hoffman's Robberg Cave","UW-205",3770,100,"Wilton",-34.105951,23.388,"marine shell",2
+"231","Kareedoringvlei 2001/012","UGAMS-8870",3760,25,"",-29.501,17.055,"marine shell",3
+"232","Buffels River, Kleinzee","Pta-2267",3750,60,"",-29.67,17.063,"bone",1
+"233","Koingnaas 2001/008C","Pta-9325",3740,60,"",-30.222,17.238,"marine shell",2
+"234","Rooikrans","Wits-2005",3740,280,"",-27.033,27.367,"bone",3
+"235","Jubilee Shelter","Pta-3563 ",3730,60,"Wilton",-25.683,27.983,"charcoal",1
+"236","Koingnaas 2001/008C","Pta-9335",3720,45,"",-30.222,17.238,"marine shell",2
+"237","Maqonqo Shelter","OZD-453",3720,100,"",-28.344,30.424,"other",3
+"238","White Paintings Shelter","Beta-33053",3700,130,"",-18.75,21.75,"charcoal",1
+"239","Deurspring 16","Pta-7387",3690,50,"",-32.006,18.305,"marine shell",2
+"240","Powerhouse Cave","Pta-1508",3680,60,"",-27.617,24.633,"",3
+"241","Blydefontein","SR-152",3650,120,"Wilton",-31.133,25.05,"charcoal",1
+"242","Steenbokfontein","Pta-6805",3640,60,"Wilton",-32.162,18.333,"marine shell",2
+"243","Steenbokfontein","Pta-7020",3635,30,"Wilton",-32.162,18.333,"marine shell",3
+"244","Blombosfontein 6","Pta-6709",3630,70,"Wilton",-34.4,21.217,"marine shell",1
+"245","De Hoop","Pta-6785",3620,60,"Final LSA",-29.236,27.438,"charcoal",2
+"246","Byneskranskop 1","OxA-32677",3599,28,"Wilton",-34.583,19.467,"bone",3
+"247","Elands Bay Cave","Pta-5594",3590,60,"Wilton",-32.317,18.318,"charcoal",1
+"248","Emambeni Shelter","Y-1998",3590,120,"",-26.433,31.053,"bone",2
+"249","Hondeklipbaai 2007/035","UGAMS-5153",3590,30,"",-30.314,17.276,"",3
+"250","Spoeg River Cave","Pta-6987",3580,60,"Final LSA",-30.294,17.272,"",1
+"251","Highlands Rock Shelter","Pta-563",3570,50,"Final LSA",-31.664,25.572,"",2
+"252","Pancho's Kitchen Midden","Pta-5743",3570,60,"Wilton",-32.339,18.333,"",3
+"253","White Paintings Shelter","UCR-3370",3570,60,"",-18.75,21.75,"eggshell",1
+"254","Maqonqo Shelter","Pta-6244 ",3560,60,"Wilton",-28.344,30.424,"charcoal",2
+"255","Matjies River","GrN-5888",3555,35,"Wilton",-34.017,23.417,"marine shell",3
+"256","White Paintings Shelter","AA-35233",3555,45,"",-18.75,21.75,"eggshell",1
+"257","Klipfonteinrand","Pta-1642",3540,60,"",-32.067,20.167,"bone",2
+"258","Mauermanshoek","Pta-5930",3540,60,"Final LSA",-28.85,27.233,"charcoal",3
+"259","Spoeg River Cave","Pta-6754",3520,50,"Final LSA",-30.294,17.272,"",1
+"260","Tortoise Cave","Pta-3604",3520,60,"Wilton",-32.341,18.399,"charcoal",2
+"261","Elands Bay Cave","Pta-687",3510,45,"Wilton",-32.317,18.318,"plant remains",3
+"262","Paternoster Midden","Pta-1717",3510,60,"",-32.807,17.884,"marine shell",1
+"263","Spring Cave","Pta-4027",3510,60,"Wilton",-32.322,18.336,"charcoal",2
+"264","Steenbokfontein","Pta-6794",3510,50,"Wilton",-32.162,18.333,"marine shell",3
+"265","White Paintings Shelter","Beta-55732",3479,90,"",-18.75,21.75,"charcoal",1
+"266","Elands Bay Cave","Pta-841",3450,50,"Wilton",-32.317,18.318,"plant remains",2
+"267","Oakhurst","Pta-520 ",3450,55,"Wilton",-33.933,22.617,"charcoal",3
+"268","Zoovoorbij","Pta-2893",3440,60,"Wilton",-28.65,20.967,"charcoal",1
+"269","Grootrif D","Pta-6216",3430,20,"",-32.164,18.314,"marine shell",2
+"270","Scorpion Shelter","Pta-6341",3430,20,"",-32.367,18.367,"marine shell",3
+"271","Tweepad 2004/014","UGAMS-8425",3430,25,"",-29.485,16.993,"marine shell",1
+"272","Tortoise Cave","Pta-5662",3410,60,"Wilton",-32.341,18.399,"marine shell",2
+"273","Byneskranskop 1","Pta-1569",3400,55,"Final LSA",-34.583,19.467,"",3
+"274","Weltevreden near Plooysburg","Pta-681",3380,60,"",-29.033,24.167,"bone",1
+"275","Masitise","Pta-5454",3370,80,"",-30.4,27.635,"charcoal",2
+"276","Borchers Shelter","Pta-3110",3360,110,"",-30.687,30.377,"bone",3
+"277","Wonderwerk","Pta-2728",3360,60,"",-27.846,23.555,"geological carbonate",1
+"278","Koingnaas 2001/008C","OxA-22970",3355,28,"",-30.222,17.238,"bone",2
+"279","Likoaeng","GrA-23232",3355,45,"Final LSA",-29.736,28.763,"charcoal",3
+"280","Jakkalsberg L","GX-32065",3330,70,"Final LSA",-28.181,16.887,"charcoal",1
+"281","Buzz Shelter","OxA-22984",3327,26,"",-31.524,18.6,"charcoal",2
+"282","Dune Field Midden","CAMS-113297",3325,35,"Wilton",-32.301,18.348,"marine shell",3
+"283","Melkbosstrand","Pta-8741",3310,60,"",-33.7307,18.4426,"bone",1
+"284","Belleview","Pta-293",3280,60,"",-29.999,29.058,"charcoal",2
+"285","Nelson Bay Cave","Pta-3097",3270,70,"Final LSA",-34.101,23.378,"charcoal",3
+"286","Nyonyane","TX-5632",3270,70,"",-27.3,31.9,"charcoal",1
+"287","Zaayfontein","SR-160",3270,115,"",-30.633,25.5,"charcoal",2
+"288","Jubilee Shelter","Wits-1449 ",3250,60,"Wilton",-25.683,27.983,"charcoal",3
+"289","Leopard Cave","Beta-236964",3250,40,"",-21.573,15.555,"charcoal",1
+"290","Gordon's Bay","GrN-4374",3220,55,"",-34.156,18.865,"charcoal",2
+"291","Melkbosstrand","Pta-928",3220,54,"",-33.732,18.441,"bone",3
+"292","Twyfelpoort","Pta-7245",3210,50,"",-28.633,27.567,"charcoal",1
+"293","KwaThwaleyakhe","Pta-5360",3200,60,"",-28.914,30.444,"charcoal",2
+"294","Melkbosstrand","Pta-8752",3200,35,"",-33.7309,18.4426,"bone",3
+"295","Byneskranskop 3","Pta-2969",3190,50,"",-34.583,19.467,"bone",1
+"296","Hoffman's Robberg Cave","UW-204",3190,110,"Wilton",-34.105951,23.388,"marine shell",2
+"297","Kreefbaai C","Pta-4045",3190,60,"",-32.21,18.328,"charcoal",3
+"298","Nelson Bay Cave","Pta-3095",3190,60,"Final LSA",-34.101,23.378,"charcoal",1
+"299","Nkupe Shelter","Pta-3269",3190,60,"Final LSA",-28.147,29.937,"charcoal",2
+"300","Leopard Cave","Beta-236966",3180,40,"",-21.573,15.555,"charcoal",3
+"301","N2005/2, Sesfontein","KN-5799",3175,40,"",-19.05,13.533,"charcoal",1
+"302","Blombosfontein 7","Pta-6183",3170,25,"Final LSA",-34.4,21.217,"marine shell",2
+"303","Brandsebaai 2","GX-32062",3160,70,"",-31.35,17.917,"marine shell",3
+"304","Tortoise Cave","Pta-5498",3160,60,"Wilton",-32.341,18.399,"marine shell",1
+"305","Mitchell's Bay 2005/016","GX-32535",3140,60,"",-30.388,17.314,"",2
+"306","N2005/1, Sesfontein","KIA-29630",3140,20,"",-19.083,13.35,"charcoal",3
+"307","Blydefontein","SMU-1849",3135,33,"Wilton",-31.133,25.05,"charcoal",1
+"308","Great Elephant Shelter","Pta-1557",3130,40,"",-21.833,15.667,"charcoal",2
+"309","iNkolimahashi Shelter","Pta-7234",3130,100,"Final LSA",-28.794,30.181,"charcoal",3
+"310","Grootrif G","Pta-8742",3125,20,"",-32.167,18.312,"marine shell",1
+"311","Jagt Pan 1","Pta-4516",3120,140,"Wilton",-30.4,21.4,"",2
+"312","Melikane","OxA-22838",3112,25,"",-29.95,28.75,"charcoal",3
+"313","Blombosfontein 7","Pta-6179",3110,50,"Final LSA",-34.4,21.217,"marine shell",1
+"314","Die Toon","Pta-5963",3110,60,"",-28.311,17.283,"",2
+"315","Dikbosch 1","Pta-1065",3110,60,"Final LSA",-28.652,23.903,"charcoal",3
+"316","Likoaeng","GrA-23535",3110,50,"Final LSA",-29.736,28.763,"charcoal",1
+"317","Jubilee Shelter","Wits-1214 ",3100,150,"Wilton",-25.683,27.983,"charcoal",2
+"318","Blydefontein","SR-142",3090,100,"Wilton",-31.133,25.05,"charcoal",3
+"319","Soutkloof 1","Pta-5986",3080,60,"",-32.446,18.336,"marine shell",1
+"320","Pancho's Kitchen Midden","Pta-5923",3060,60,"Wilton",-32.339,18.333,"",2
+"321","Witklip","Pta-4607",3060,60,"",-32.917,17.983,"charcoal",3
+"322","Wonderwerk","Pta-2139",3060,40,"",-27.846,23.555,"eggshell",1
+"323","Melikane","OxA-22966",3047,27,"",-29.95,28.75,"charcoal",2
+"324","Ravenscraig","Pta-3450",3040,50,"",-31,27.783,"bone",3
+"325","Diamond Shelter","Pta-2974",3020,60,"",-28.492,28.948,"charcoal",1
+"326","Grootrif B","Pta-4067",3020,50,"",-32.164,18.314,"marine shell",2
+"327","Nelson Bay Cave","Pta-2920",3020,35,"Final LSA",-34.101,23.378,"charcoal",3
+"328","Twyfelpoort","Pta-7254",3020,60,"",-28.633,27.567,"charcoal",1
+"329","Koingnaas 2005/050","OxA-22972",2993,27,"",-30.235,17.25,"bone",2
+"330","Gordon's Bay","GrN-4373",2980,60,"",-34.156,18.865,"charcoal",3
+"331","Nelson Bay Cave","Pta-2913",2970,60,"Final LSA",-34.101,23.378,"charcoal",1
+"332","Spring Cave","Pta-4033",2970,60,"Wilton",-32.322,18.336,"charcoal",2
+"333","Melkbosstrand","Pta-8807",2970,60,"",-33.7308,18.4426,"bone",3
+"334","Bonawe","Pta-3499",2960,60,"",-31.317,27.817,"charcoal",1
+"335","Tshisiku Shelter","Pta-8654",2960,60,"",-22.233,29.148,"",2
+"336","Melkbosstrand","Pta-8445",2960,60,"",-33.7087,18.4559,"bone",3
+"337","Elands Bay Cave","GaK-4339",2950,115,"Wilton",-32.317,18.318,"plant remains",1
+"338","Nelson Bay Cave","Pta-1485",2950,80,"Final LSA",-34.101,23.378,"charcoal",2
+"339","Numas Schlucht Cave (Lower Numas Cave)","Pta-179",2950,65,"Wilton",-21.117,14.417,"charcoal",3
+"340","Ballito Bay","Pta-5803",2940,50,"",-29.52,31.229,"bone",1
+"341","Fackeltrager Shelter, Omandumba","KN-I-460",2940,45,"Ceramic LSA",-21.567,15.35,"charcoal",2
+"342","Kareedoringvlei 2001/011","Pta-9306",2940,45,"",-29.501,17.055,"marine shell",3
+"343","Pancho's Kitchen Midden","Pta-5990",2940,20,"Wilton",-32.339,18.333,"",1
+"344","Brandsebaai 3","Pta-6051",2930,50,"",-31.35,17.917,"marine shell",2
+"345","Mzinyashana Shelter","Pta-6539",2930,20,"Final LSA",-28.317,30.467,"",3
+"346","Wonderwerk","Pta-2729",2930,60,"",-27.846,23.555,"geological carbonate",1
+"347","Nelson Bay Cave","GrN-5702",2925,35,"Final LSA",-34.101,23.378,"charcoal",2
+"348","Elands Bay Open","Pta-6265",2920,60,"Wilton",-32.317,18.316,"",3
+"349","Eagle Cave","Pta-5920",2910,60,"",-32.326,18.322,"charcoal",1
+"350","Fackeltrager Shelter, Omandumba","KN-I-461",2910,45,"",-21.567,15.35,"charcoal",2
+"351","Wonderwerk","Pta-2543",2910,60,"",-27.846,23.555,"charcoal",3
+"352","Main Caves North","OZD-447",2900,80,"",-29.313,29.567,"other",1
+"353","Goedgeloof C1/M1","Pta-4066",2890,40,"Final LSA",-34.133,24.8,"",2
+"354","Numas Schlucht Cave (Lower Numas Cave)","Pta-178",2890,65,"Wilton",-21.117,14.417,"charcoal",3
+"355","Ysterfontein","Pta-929",2880,50,"",-33.35,18.154,"bone",1
+"356","Likoaeng","GrA-26178",2875,35,"Final LSA",-29.736,28.763,"bone",2
+"357","Langklip 2001/013","Pta-9312",2870,60,"",-30.378,17.308,"marine shell",3
+"358","Melkhoutboom","Pta-706",2870,90,"Final LSA",-33.317,25.283,"",1
+"359","Castle Quarry","GrN-5023",2860,35,"",-26.162,31.059,"charcoal",2
+"360","Likoaeng","GrA-23239",2860,45,"Final LSA",-29.736,28.763,"charcoal",3
+"361","Mitchell's Bay 2005/016","GX-32534",2860,60,"",-30.388,17.314,"",1
+"362","Zoovoorbij","Pta-2871",2860,45,"Wilton",-28.65,20.967,"charcoal",2
+"363","Zoovoorbij","Pta-2888",2860,45,"Wilton",-28.65,20.967,"charcoal",3
+"364","De Hoop","Pta-6787",2850,60,"Final LSA",-29.236,27.438,"charcoal",1
+"365","Fackeltrager Shelter, Omandumba","KN-I-730",2840,55,"",-21.567,15.35,"charcoal",2
+"366","Mzinyashana Shelter","Pta-6708",2840,60,"Final LSA",-28.317,30.467,"",3
+"367","Umhlatuzana","Pta-4215",2840,60,"",-29.8,30.75,"charcoal",1
+"368","Bonawe","Pta-3497",2830,60,"",-31.317,27.817,"charcoal",2
+"369","Grootrif D","Pta-6221",2830,60,"",-32.164,18.314,"charcoal",3
+"370","Messum Shelter","KN-I-638",2830,55,"",-21.367,14.283,"charcoal",1
+"371","Mike Taylor's Midden","Pta-3720",2820,50,"",-32.338,18.317,"charcoal",2
+"372","Diamond Shelter","Pta-2977",2810,60,"",-28.492,28.948,"charcoal",3
+"373","Likoaeng","GrA-23233",2810,45,"Final LSA",-29.736,28.763,"bone",1
+"374","Zoovoorbij","Pta-2870",2800,60,"Wilton",-28.65,20.967,"charcoal",2
+"375","Mitchell's Bay 2005/001E","OxA-24554",2796,27,"",-30.469,17.361,"bone",3
+"376","Blydefontein","OxA-27365",2791,25,"Wilton",-31.133,25.05,"bone",1
+"377","Breek Been Kolk 1","Pta-4154",2790,60,"",-30.783,20.15,"eggshell",2
+"378","Orange Springs","Wits-2002",2790,70,"Final LSA",-29.1,27.367,"",3
+"379","Byneskranskop 3","Pta-2869",2780,50,"",-34.583,19.467,"bone",1
+"380","Tsisab Schlucht","Pta-1776",2780,60,"",-21.1,14.683,"charcoal",2
+"381","Highmoor 1","OZD-451",2770,75,"",-29.33,29.603,"other",3
+"382","Lambert's Bay Dump","Pta-3201",2770,60,"",-32.109,18.304,"marine shell",1
+"383","Deurspring 16","Pta-7129",2760,45,"",-32.006,18.305,"marine shell",2
+"384","Main Caves North","OZD-448",2760,75,"",-29.313,29.567,"other",3
+"385","Mhlwazini Cave","Pta-4876",2760,50,"",-29.048,29.39,"charcoal",1
+"386","Sandkop 2005/096B","UGAMS-8871",2740,25,"",-29.689,17.064,"",2
+"387","Jagt Pan 7","Pta-4193",2730,60,"Final LSA",-30.495,21.495,"",3
+"388","N2005/1, Sesfontein","KIA-29630-2",2730,20,"",-19.083,13.35,"charcoal",1
+"389","Blydefontein","D-AMS-1231",2728,32,"Wilton",-31.133,25.05,"bone",2
+"390","Groenriviermond","Pta-5617",2720,60,"",-30.833,17.583,"bone",3
+"391","Springbokoog 13","Pta-4664",2710,50,"Wilton",-30.217,21.533,"eggshell",1
+"392","Gordon's Bay","GrN-4372",2700,40,"",-34.156,18.865,"charcoal",2
+"393","Grootrif B","Pta-4068",2700,60,"",-32.164,18.314,"charcoal",3
+"394","Liphofung","Pta-6106",2700,60,"",-28.753,28.496,"bone",1
+"395","Koingnaas 2005/040","OxA-22971",2695,26,"",-30.235,17.25,"bone",2
+"396","Steenbokfontein","Pta-6134",2690,60,"Final LSA",-32.162,18.333,"charcoal",3
+"397","Grootrif D","Pta-4060",2680,60,"",-32.164,18.314,"charcoal",1
+"398","Port Nolloth 2009/001","UGAMS-6607",2670,30,"",-29.246,16.874,"",2
+"399","Verloren Vlei","Gx-14816",2670,80,"",-32.35,18.417,"bone",3
+"400","Likoaeng","Pta-7093",2650,60,"Final LSA",-29.736,28.763,"charcoal",1
+"401","Riversmead","GX-723",2645,95,"",-30.633,25.5,"",2
+"402","Mitchell's Bay 2005/059","OxA-24556",2641,29,"",-30.464,17.361,"bone",3
+"403","KwaThwaleyakhe","Pta-5349",2640,60,"",-28.914,30.444,"charcoal",1
+"404","Likoaeng North","Pta-9067",2640,70,"",-29.736,28.763,"bone",2
+"405","Pancho's Kitchen Midden","Pta-5602",2640,60,"",-32.339,18.333,"",3
+"406","Mzinyashana Shelter","Pta-6700",2630,60,"Final LSA",-28.317,30.467,"",1
+"407","Springbokoog 5","Pta-4205",2630,50,"Wilton",-30.217,21.533,"eggshell",2
+"408","Die Kelders","GaK-3878",2620,100,"Ceramic LSA",-34.533,19.383,"charcoal",3
+"409","Mitchell's Bay 2005/005A","GX-32525",2620,70,"",-30.468,17.36,"",1
+"410","White Paintings Shelter","Beta-33681",2620,130,"Ceramic LSA",-18.75,21.75,"charcoal",2
+"411","Belleview","Pta-309",2610,50,"",-29.999,29.058,"charcoal",3
+"412","Public Resort 1","Pta-4030",2610,50,"",-32.317,18.333,"marine shell",1
+"413","Great Elephant Shelter","Pta-1556",2600,50,"",-21.833,15.667,"charcoal",2
+"414","Tsisab Schlucht","Pta-1550",2590,60,"",-21.1,14.683,"charcoal",3
+"415","Reception Shelter","OxA-22983",2578,25,"Final LSA",-31.526,18.601,"charcoal",1
+"416","Melkbosstrand","OxA-2056-46",2573,31,"",-33.732,18.441,"bone",2
+"417","Kabeljous River Mouth","Pta-3970b",2570,60,"Final LSA",-33.967,24.917,"",3
+"418","Mhlwazini Cave","Pta-5045",2570,60,"",-29.048,29.39,"charcoal",1
+"419","Public Resort 1","Pta-4022",2570,60,"",-32.317,18.333,"charcoal",2
+"420","Mitchell's Bay 2005/005A","GX-32524",2560,60,"",-30.469,17.361,"",3
+"421","Reception Shelter","AA-89910",2560,49,"Final LSA",-31.526,18.601,"bone",1
+"422","Likoaeng","GrA-23236",2555,45,"Final LSA",-29.736,28.763,"bone",2
+"423","Great Elephant Shelter","UCLA-724A",2550,80,"",-21.833,15.667,"",3
+"424","Kreefbaai C","Pta-4046",2550,50,"",-32.21,18.328,"charcoal",1
+"425","Grootrif D","Pta-4083",2540,50,"",-32.164,18.314,"charcoal",2
+"426","Kasteelberg G","Pta-8446",2540,60,"Final LSA",-32.733,17.933,"marine shell",3
+"427","Nelson Bay Cave","GrN-5715",2540,50,"Final LSA",-34.101,23.378,"charcoal",1
+"428","Steenbras Bay Midden","Pta-1045",2540,50,"",-26.667,15.133,"marine shell",2
+"429","Richards Bay","OxA-V-2064-55",2532,26,"",-28.82,32.065,"bone",3
+"430","Riversmead","GX-724",2530,105,"",-30.633,25.5,"",1
+"431","Koingnaas 2005/135A","OxA-22973",2523,27,"",-30.235,17.248,"bone",2
+"432","iNkolimahashi Shelter","Pta-7232",2520,50,"Final LSA",-28.794,30.181,"charcoal",3
+"433","Kasteelberg G","Pta-8452",2520,60,"Final LSA",-32.733,17.933,"marine shell",1
+"434","Springbokoog 13","Pta-4653",2520,60,"Wilton",-30.217,21.533,"eggshell",2
+"435","Faraoskop","Pta-4954",2510,60,"",-32.1253,18.6144,"charcoal",3
+"436","Steenbokfontein","Pta-7015",2510,50,"Final LSA",-32.162,18.333,"wood",1
+"437","Langklip 2001/004 (Rooiwal Hollow)","Pta-8915",2505,20,"",-30.451,17.348,"marine shell",2
+"438","Cape Deseada Midden","Pta-5919",2500,50,"",-32.317,18.314,"marine shell",3
+"439","Kasteelberg M","Pta-8431",2490,60,"Ceramic LSA",-32.733,17.933,"marine shell",1
+"440","Kreefbaai C","Pta-3589",2490,60,"",-32.21,18.328,"charcoal",2
+"441","Steenbokfontein","Pta-6505",2490,50,"Final LSA",-32.162,18.333,"plant remains",3
+"442","Melkbosstrand","Pta-4293",2490,50,"",-33.7281,18.44,"bone",1
+"443","Melkbosstrand","GX-23871",2490,50,"",-33.732,18.441,"bone",2
+"444","Nkupe Shelter","Pta-3443",2480,60,"Final LSA",-28.147,29.937,"charcoal",3
+"445","Diaz Street Midden","UGAMS-2803",2470,40,"",-33.009,17.94,"bone",1
+"446","Grootrif D","Pta-4085",2470,60,"",-32.164,18.314,"charcoal",2
+"447","Kreefbaai C","Pta-3313",2470,60,"",-32.21,18.328,"charcoal",3
+"448","Strathalan A","Pta-4678",2470,45,"",-30.983,28.383,"charcoal",1
+"449","Kreefbaai C","Pta-4047",2460,60,"",-32.21,18.328,"charcoal",2
+"450","Malkoppan","Pta-6219",2460,50,"",-32.134,18.309,"charcoal",3
+"451","Mike Taylor's Midden","Pta-3207",2460,50,"",-32.338,18.317,"charcoal",1
+"452","Melkbosstrand","GX-23455",2460,50,"",-33.732,18.441,"bone",2
+"453","Cape Deseada Midden","Pta-5918",2450,50,"",-32.317,18.314,"marine shell",3
+"454","Jagt Pan 7","Pta-4309",2450,60,"Final LSA",-30.495,21.495,"",1
+"455","Kabeljous River Shelter","Pta-4614",2450,60,"Final LSA",-33.967,24.917,"",2
+"456","Nelson Bay Cave","Pta-2921",2450,60,"Final LSA",-34.101,23.378,"charcoal",3
+"457","Railway Midden","Pta-5917",2450,50,"",-32.317,18.317,"marine shell",1
+"458","Steenbokfontein","OxA-6219",2445,50,"Final LSA",-32.162,18.333,"bone",2
+"459","Steenbras Bay Midden","Pta-1042",2440,50,"",-26.667,15.133,"marine shell",3
+"460","Toteng 7","Beta-96238",2440,80,"",-20.38,22.95,"charcoal",1
+"461","Brandsebaai 4","Pta-6049",2430,40,"",-31.35,17.917,"marine shell",2
+"462","Leopard Cave","Beta-236963",2430,50,"",-21.573,15.555,"charcoal",3
+"463","Diaz Street Midden","UGAMS-3062",2420,25,"",-33.009,17.94,"bone",1
+"464","Sandkop 2005/084","UGAMS-6608",2420,30,"",-29.686,17.064,"",2
+"465","Blombos Cave","Pta-6175",2400,40,"Final LSA",-34.4,21.217,"marine shell",3
+"466","Railway Midden","Pta-5916",2400,40,"",-32.317,18.317,"marine shell",1
+"467","Spoeg River Cave","Pta-7200",2400,25,"Final LSA",-30.294,17.272,"",2
+"468","Verloren Vlei","OxA-455",2400,100,"",-32.35,18.417,"bone",3

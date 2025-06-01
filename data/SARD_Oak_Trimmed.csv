@@ -1,134 +1,122 @@
-"","site","Site.code","lat","lon","Country","Province.or.district","RFZ","Biome","Stratigraphic.context","Dating.technique","Material.dated","Species","Lab.ID","c14age","c14std","Archaeological.Period","culture","Sample.context","Site.Type","delta.13","refcode","Notes"
-"1","Klipfonteinrand","KFR",-32.067,20.167,"South Africa","Western Cape","W","Succulent Karoo Biome","rwhf","AMS","","","D-AMS-002439",12303,41,"LSA","Oakhurst","","rock shelter",NA,"mackay2016toa","hrnf macrolithic"
-"2","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32685",12250,55,"LSA","Oakhurst","","rock shelter",NA,"loftus2016rdb",""
-"3","Drotsky's Cave","DYC",-20.333,21.417,"Botswana","North-West District","S","Desert Biome","31 cm below datumn","conventional 14C","","","S-16591",12250,150,"LSA","Oakhurst","","rock shelter",NA,"yellen1987tpa",""
-"4","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","charcoal","","UW-177",11950,150,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"5","Klipfonteinrand","KFR",-32.067,20.167,"South Africa","Western Cape","W","Succulent Karoo Biome","wors","AMS","","","D-AMS-001836",11723,52,"LSA","Oakhurst","","rock shelter",NA,"mackay2016toa","hrnf with oes"
-"6","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","CS","conventional 14C","charcoal","","UW-162 ",11505,110,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"7","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","Layer D","conventional 14C","charcoal","","L-336H",11250,400,"LSA","Oakhurst","","rock shelter",NA,"sealy2006rdm","Forest"
-"8","Drotsky's Cave","DYC",-20.333,21.417,"Botswana","North-West District","S","Desert Biome","50 cm below datumn","conventional 14C","","","Beta-50163",11240,60,"LSA","Oakhurst","","rock shelter",NA,"robbins1996pad",""
-"9","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","charcoal","","I-6515",11080,260,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"10","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","KAMA, Level 6 (bottom)","conventional 14C","charcoal","","UW-0192",11070,140,"LSA","Oakhurst","","rock shelter",NA,"fairhall1976uwd",""
-"11","Nyonyane","NYO",-27.3,31.9,"Swaziland","Hhohho District","S","Grassland Biome","II 42-53 cm","conventional 14C","charcoal","","TX-5637",10970,430,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn","Indian Ocean Cpastal Belt"
-"12","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","SMOK","AMS","","","AA-5833",10840,70,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"13","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","GBAN","conventional 14C","","","Pta-0737",10700,100,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"14","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","SMOK","conventional 14C","","","Pta-5369",10660,100,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"15","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6702",10660,280,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"16","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","PBGB","conventional 14C","","","Pta-0732",10640,110,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"17","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","DUST","conventional 14C","","","Pta-6758",10620,100,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"18","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","BSL","conventional 14C","charcoal","","UW-218",10600,150,"","Oakhurst","","rock shelter",NA,"deacon1984lss","Not defined"
-"19","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","ASHE","conventional 14C","","","Pta-5361",10560,100,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"20","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","BSBJ","conventional 14C","sediments","","UW-178",10540,110,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"21","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","Layer D","conventional 14C","charcoal","","L-336G",10500,400,"LSA","Oakhurst","","rock shelter",NA,"sealy2006rdm","Forest"
-"22","Melkhoutboom","MKB",-33.317,25.283,"South Africa","Eastern Cape","Y","Thicket Biome","rock fall unit","conventional 14C","","","GaK-1538",10500,190,"LSA","Oakhurst","","rock shelter",NA,"deacon1976whg",""
-"23","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","FOAM","conventional 14C","","","Pta-5336",10460,80,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"24","Heuningsneskrans","HNK",-24.6,30.65,"South Africa","Limpopo","S","Savanna Biome","Stratum 1 - 145-168cm","conventional 14C","charred bone","","Pta-114",10430,150,"LSA","Oakhurst","","rock shelter",NA,"vogel1971prd",""
-"25","Boomplaas","BMP",-33.383,22.183,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","UW-411",10425,125,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"26","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32455",10340,50,"LSA","Oakhurst","","rock shelter",NA,"loftus2016rdb",""
-"27","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","BSBJ","conventional 14C","charcoal","","Q-1085 ",10256,210,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"28","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","marine shell","","Pta-6951 ",10215,25,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"29","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","L14-106","conventional 14C","charcoal","","Pta-5208 ",10200,100,"LSA","Oakhurst","","rock shelter",NA,"mitchell1993ail",""
-"30","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","7","AMS","charcoal","","OxA-27316",10190,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"31","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","CS","conventional 14C","charcoal","","UW-164 ",10180,85,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"32","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","marine shell","","Pta-6848",10155,30,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"33","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32454",10155,45,"LSA","Oakhurst","","rock shelter",NA,"loftus2016rdb",""
-"34","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","CS","conventional 14C","charcoal","","Pta-392 ",10150,90,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"35","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","7","AMS","charcoal","","OxA-27314",10135,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"36","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","22","AMS","charcoal","","CAMS-170783",10125,50,"LSA","Oakhurst","","rock shelter",NA,"collins2017rho",""
-"37","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","7","AMS","charcoal","","OxA-27315",10125,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"38","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6838 ",10120,40,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"39","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","","","UCLA-1746-C-2 ",10100,190,"LSA","Oakhurst","","rock shelter",NA,"protsch1975pca","Forest"
-"40","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","PLGB, Level 6 (top)","conventional 14C","charcoal","","UW-0193",10090,65,"LSA","Oakhurst","","rock shelter",NA,"fairhall1976uwd",""
-"41","Nyonyane","NYO",-27.3,31.9,"Swaziland","Hhohho District","S","Grassland Biome","II 38-42 cm","conventional 14C","charcoal","","TX-5636",10080,430,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn","Indian Ocean Cpastal Belt"
-"42","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","7","AMS","charcoal","","UGAMS-8986",10060,30,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"43","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","marine shell","","Pta-6925",10055,30,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"44","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32684",10015,45,"LSA","Oakhurst","","rock shelter",NA,"loftus2016rdb",""
-"45","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","CRAY","conventional 14C","","","Pta-2481",10000,90,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"46","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","7","conventional 14C","charcoal","","Pta-5205",9970,90,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"47","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","CRAY","conventional 14C","marine other","Jasus lalandii","Pta-2592",9950,270,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"48","Bushman Rock  Shelter","BRS",-24.583,30.633,"South Africa","Limpopo","S","Savanna Biome","Level 7","conventional 14C","","","GrN-4813",9940,80,"LSA","Oakhurst","","rock shelter",NA,"plug1981bs; vogel1969rdb",""
-"49","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6936 ",9890,70,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"50","Havens Cave","HVC",-33.667,24.35,"South Africa","Eastern Cape","Y","Thicket Biome","GOW","conventional 14C","","","Pta-4620",9790,90,"LSA","Oakhurst","","rock shelter",NA,"binneman1995scc",""
-"51","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6937 ",9790,90,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"52","Heuningsneskrans","HNK",-24.6,30.65,"South Africa","Limpopo","S","Savanna Biome","Stratum 2a - 76-107cm","conventional 14C","charcoal","","Pta-099",9780,85,"LSA","Oakhurst","","rock shelter",NA,"vogel1971prd",""
-"53","Kruger Cave","KRU",-25.75,27.25,"South Africa","North West Province","S","Savanna Biome","","conventional 14C","","","KRU-9",9780,110,"LSA","Oakhurst","","rock shelter",NA,"mason1988kop",""
-"54","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","Pta-1587 ",9760,85,"LSA","Oakhurst","","rock shelter",NA,"schweitzer1982bql",""
-"55","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","SA","conventional 14C","","","Pta-6057",9740,140,"LSA","Oakhurst","","rock shelter",NA,"mitchell1996qlh",""
-"56","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 4 (349=024 in 1989)","conventional 14C","charcoal","","Pta-5207 ",9690,120,"LSA","Oakhurst","","rock shelter",NA,"mitchell1993ail",""
-"57","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","AMS","","","OxA-V-2064-56 ",9688,36,"LSA","Oakhurst","","rock shelter",NA,"sealy2006rdm","Forest"
-"58","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 4 (319)","conventional 14C","charcoal","","UGAMS-8979",9650,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"59","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","NEPT","conventional 14C","","","Pta-5306",9640,90,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"60","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6686 ",9610,170,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"61","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","BSP2","conventional 14C","","","Pta-686",9600,90,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"62","Kruger Cave","KRU",-25.75,27.25,"South Africa","North West Province","S","Savanna Biome","","conventional 14C","","","KRU-8",9590,130,"LSA","Oakhurst","","rock shelter",NA,"mason1988kop",""
-"63","Bushman Rock  Shelter","BRS",-24.583,30.633,"South Africa","Limpopo","S","Savanna Biome","level 2","conventional 14C","","","GrN-5874",9570,55,"LSA","Oakhurst","","rock shelter",NA,"plug1981bs; vogel1969rdb",""
-"64","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 5a (523)","conventional 14C","charcoal","","UGAMS-8980",9570,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"65","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum VII","conventional 14C","bone","","Pta-004",9570,450,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn","TX-5782"
-"66","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3c (066)","AMS","charcoal","Leucosidea sericea","OxA-32159",9560,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell2012am",""
-"67","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 4a (125)","conventional 14C","charcoal","","UGAMS-8978",9530,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"68","Bushman Rock  Shelter","BRS",-24.583,30.633,"South Africa","Limpopo","S","Savanna Biome","Level 5","conventional 14C","","","GrN-4854",9510,55,"LSA","Oakhurst","","rock shelter",NA,"plug1981bs; vogel1969rdb",""
-"69","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 5a (386)","AMS","charcoal","Erica sp. ","OxA-26231",9505,55,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"70","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 5a (414=025 in 1989)","conventional 14C","charcoal","","Pta-5237 ",9420,110,"LSA","Oakhurst","","rock shelter",NA,"mitchell1993ail",""
-"71","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3diii (102)","conventional 14C","charcoal","","UGAMS-8975",9420,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"72","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum VI","conventional 14C","snail","","TX-5628",9380,90,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn",""
-"73","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum VII","conventional 14C","bone","","Y-1996",9370,160,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn",""
-"74","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum VII","conventional 14C","eggshell","Struthio camelus","TX-5629",9360,190,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn",""
-"75","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 4 (160)","AMS","charcoal","Xymalos monospora","OxA-26230",9335,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"76","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32453",9325,45,"LSA","Oakhurst","","rock shelter",NA,"loftus2016rdb",""
-"77","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","6","AMS","charcoal","","UGAMS-8985",9320,30,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"78","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","6","conventional 14C","charcoal","","Pta-5204 ",9290,90,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"79","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","SA","conventional 14C","","","Pta-6368 ",9280,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell1996qlh",""
-"80","Kangkara Cave","KRA",-33.783,23.083,"South Africa","Western Cape","Y","Fynbos Biome","YBL","conventional 14C","bone","","Pta-2307 ",9260,90,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"81","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","O ","conventional 14C","charcoal","","Pta-5599",9250,70,"LSA","Oakhurst","","rock shelter",NA,"wadley2000ehl",""
-"82","Heuningsneskrans","HNK",-24.6,30.65,"South Africa","Limpopo","S","Savanna Biome","Stratum 2a - 69-122cm","conventional 14C","eggshell","Struthio camelus","LJ-3198",9230,100,"LSA","Oakhurst","","rock shelter",NA,"linick1977jnr",""
-"83","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","6","AMS","charcoal","","UGAMS-11599",9220,30,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"84","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","6","AMS","charcoal","","OxA-27313",9215,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"85","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3diii (109)","conventional 14C","charcoal","","UGAMS-8976",9150,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci","Out of sequence"
-"86","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","6","AMS","charcoal","","OxA-27312",9115,40,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"87","Boomplaas","BMP",-33.383,22.183,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","UW-410 ",9100,135,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"88","Kruger Cave","KRU",-25.75,27.25,"South Africa","North West Province","S","Savanna Biome","","conventional 14C","","","KRU-7",9090,90,"LSA","Oakhurst","","rock shelter",NA,"mason1988kop",""
-"89","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","Jake","conventional 14C","charcoal","","Pta-391 ",8990,80,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"90","Buffelskloof","BUF",-33.667,21.867,"South Africa","Western Cape","Y","Thicket Biome","HE1","conventional 14C","","","Pta-1484",8960,80,"LSA","Oakhurst","","rock shelter",NA,"opperman1978ebs",""
-"91","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","5","conventional 14C","charcoal","","Pta-5192 ",8950,80,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"92","Oakhurst","OAK",-33.933,22.617,"South Africa","Western Cape","Y","Forests","","conventional 14C","bone","","Pta-410",8950,90,"LSA","Oakhurst","","rock shelter",NA,"patrick1989aas",""
-"93","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3b (030)","AMS","charcoal","Leucosidea sericea","OxA-32160",8945,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell2012am",""
-"94","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3a (042)","AMS","charcoal","Leucosidea sericea","OxA-X-2460-48",8905,70,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"95","Heuningsneskrans","HNK",-24.6,30.65,"South Africa","Limpopo","S","Savanna Biome","Stratum 3b - 23-53cm","conventional 14C","eggshell","Struthio camelus","LJ-3199",8880,100,"LSA","Oakhurst","","rock shelter",NA,"linick1977jnr",""
-"96","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","BURO","conventional 14C","","","Pta-5305",8860,90,"LSA","Oakhurst","","rock shelter",NA,"parkington1992mss",""
-"97","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum VII","conventional 14C","eggshell","Struthio camelus","TX-5630",8860,180,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn",""
-"98","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3a (040)","AMS","charcoal","Leucosidea sericea","OxA-32161",8820,40,"LSA","Oakhurst","","rock shelter",NA,"mitchell2012am",""
-"99","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3di (046)","AMS","charcoal","Leucosidea sericea","OxA-32158",8802,39,"LSA","Oakhurst","","rock shelter",NA,"mitchell2012am",""
-"100","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phse 3e (111=021 in 1989)","conventional 14C","charcoal","","UGAMS-8977",8790,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci","Out of sequence"
-"101","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3a (MCS 004)","conventional 14C","charcoal","","Pta-5238 ",8780,30,"LSA","Oakhurst","","rock shelter",NA,"mitchell1993ail",""
-"102","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","5","AMS","charcoal","","UGAMS-11597",8710,30,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"103","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum VII","conventional 14C","bone","","Pta-3540",8700,120,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn",""
-"104","Ntloana Tšoana","NTL",-29.317,27.817,"Lesotho","Maseru District","S","Grassland Biome","Phase 3a (060)","conventional 14C","charcoal","","UGAMS-8974",8690,30,"LSA","Oakhurst","","rock shelter",NA,"roberts2013sci",""
-"105","Tloutle","TLT",-29.467,27.767,"Lesotho","Maseru District","S","Grassland Biome","GS","conventional 14C","charcoal","","Pta-5172",8680,70,"LSA","Oakhurst","","rock shelter",NA,"mitchell1993ats",""
-"106","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","H ","conventional 14C","charcoal","","Pta-5560 ",8614,38,"LSA","Oakhurst","","rock shelter",NA,"wadley2000ehl",""
-"107","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","5","AMS","charcoal","","OxA-27311",8595,45,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"108","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","Patella sp. ","UW-184 ",8570,170,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"109","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32451",8550,37,"LSA","Oakhurst","","rock shelter",NA,"loftus2016rdb",""
-"110","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","CY-CAU8","conventional 14C","charcoal","","SMU-1823",8541,417,"LSA","Oakhurst","","rock shelter",NA,"bousman2005cls; bousman2016qed","Lockshoek"
-"111","Jubilee Shelter","JBS",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","R D2/D3","conventional 14C","charcoal","","Wits-1436",8500,240,"LSA","Oakhurst","","rock shelter",NA,"wadley1987lsh",""
-"112","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32452",8447,39,"LSA","Oakhurst","","rock shelter",NA,"loftus2016rdb",""
-"113","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","JaG","conventional 14C","charcoal","","Pta-5600 ",8380,70,"LSA","Oakhurst","","rock shelter",NA,"wadley2000ehl",""
-"114","Ha Makotoko","HMA",-29.333,27.8,"Lesotho","Maseru District","S","Grassland Biome","4","conventional 14C","charcoal","","Pta-5191 ",8370,80,"LSA","Oakhurst","","rock shelter",NA,"mitchell2014mls",""
-"115","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","Ph","conventional 14C","charcoal","","Pta-7287",8350,70,"LSA","Oakhurst","","rock shelter",NA,"pienaar2008osl",""
-"116","Wilton Large Rock Shelter","WLR",-33.325,26.142,"South Africa","Eastern Cape","Y","Fynbos Biome","burial, Layer 3?","conventional 14C","charcoal","","GaK-1541",8260,720,"LSA","Oakhurst","","rock shelter",NA,"deacon1972waa",""
-"117","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","Ja","conventional 14C","charcoal","","Pta-7122 ",8160,70,"LSA","Oakhurst","","rock shelter",NA,"wadley2000ehl",""
-"118","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","Rice B","conventional 14C","other","","UW-181 ",8070,240,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss","charcoal frags, shells sand mixed in"
-"119","Bonawe","BOW",-31.317,27.817,"South Africa","Eastern Cape","S","Grassland Biome","Layer 3c","conventional 14C","charcoal","","Pta-1709",8040,100,"LSA","Oakhurst","","rock shelter",NA,"opperman1987lsd",""
-"120","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6688 ",7920,100,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"121","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6687 ",7900,340,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"122","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","marine shell","","Pta-6831 ",7685,30,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"123","Melkhoutboom","MKB",-33.317,25.283,"South Africa","Eastern Cape","Y","Thicket Biome","medium brown series","conventional 14C","","","Pta-666 ",7660,80,"LSA","Oakhurst","","rock shelter",NA,"deacon1976whg",""
-"124","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum VI","conventional 14C","bone","","Pta-3533",7600,80,"LSA","Oakhurst","","rock shelter",NA,"barham1989rdn",""
-"125","Kruger Cave","KRU",-25.75,27.25,"South Africa","North West Province","S","Savanna Biome","","conventional 14C","","","KRU-6",7500,60,"LSA","Oakhurst","","rock shelter",NA,"mason1988kop",""
-"126","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6823 ",7400,30,"LSA","Oakhurst","","rock shelter",NA,"dockel1998imr","Forest"
-"127","Kangkara Cave","KRA",-33.783,23.083,"South Africa","Western Cape","Y","Fynbos Biome","PBW","conventional 14C","bone","","Pta-2812 ",7330,100,"LSA","Oakhurst","","rock shelter",NA,"deacon1984lss",""
-"128","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","ALP","conventional 14C","","","Pta-6072 ",7210,80,"LSA","Oakhurst","","rock shelter",NA,"mitchell1996qlh",""
-"129","Heuningsneskrans","HNK",-24.6,30.65,"South Africa","Limpopo","S","Savanna Biome","Stratum 3b - 45-70cm","conventional 14C","charred bone","","Pta-112",7200,70,"LSA","Oakhurst","","rock shelter",NA,"vogel1971prd",""
-"130","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","ALP","conventional 14C","","","Pta-6278 ",7150,80,"LSA","Oakhurst","","rock shelter",NA,"mitchell1996qlh",""
-"131","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","ALP","conventional 14C","","","Pta-6280 ",7090,80,"LSA","Oakhurst","","rock shelter",NA,"mitchell1996qlh",""
-"132","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","ALP","conventional 14C","","","Pta-6083 ",7010,70,"LSA","Oakhurst","","rock shelter",NA,"mitchell1996qlh",""
-"133","Kruger Cave","KRU",-25.75,27.25,"South Africa","North West Province","S","Savanna Biome","","conventional 14C","","","KRU-5",6760,100,"LSA","Oakhurst","","rock shelter",NA,"mason1988kop",""
+"","site","Lab.ID","c14age","c14std","culture","lat","lon","Material.dated","Samp"
+"1","Klipfonteinrand","D-AMS-002439",12303,41,"Oakhurst",-32.067,20.167,"",1
+"2","Byneskranskop 1","OxA-32685",12250,55,"Oakhurst",-34.583,19.467,"bone",2
+"3","Drotsky's Cave","S-16591",12250,150,"Oakhurst",-20.333,21.417,"",3
+"4","Nelson Bay Cave","UW-177",11950,150,"Oakhurst",-34.101,23.378,"charcoal",1
+"5","Klipfonteinrand","D-AMS-001836",11723,52,"Oakhurst",-32.067,20.167,"",2
+"6","Nelson Bay Cave","UW-162 ",11505,110,"Oakhurst",-34.101,23.378,"charcoal",3
+"7","Matjies River","L-336H",11250,400,"Oakhurst",-34.017,23.417,"charcoal",1
+"8","Drotsky's Cave","Beta-50163",11240,60,"Oakhurst",-20.333,21.417,"",2
+"9","Nelson Bay Cave","I-6515",11080,260,"Oakhurst",-34.101,23.378,"charcoal",3
+"10","Elands Bay Cave","UW-0192",11070,140,"Oakhurst",-32.317,18.318,"charcoal",1
+"11","Nyonyane","TX-5637",10970,430,"Oakhurst",-27.3,31.9,"charcoal",2
+"12","Elands Bay Cave","AA-5833",10840,70,"Oakhurst",-32.317,18.318,"",3
+"13","Elands Bay Cave","Pta-0737",10700,100,"Oakhurst",-32.317,18.318,"",1
+"14","Elands Bay Cave","Pta-5369",10660,100,"Oakhurst",-32.317,18.318,"",2
+"15","Matjies River","Pta-6702",10660,280,"Oakhurst",-34.017,23.417,"charcoal",3
+"16","Elands Bay Cave","Pta-0732",10640,110,"Oakhurst",-32.317,18.318,"",1
+"17","Elands Bay Cave","Pta-6758",10620,100,"Oakhurst",-32.317,18.318,"",2
+"18","Nelson Bay Cave","UW-218",10600,150,"Oakhurst",-34.101,23.378,"charcoal",3
+"19","Elands Bay Cave","Pta-5361",10560,100,"Oakhurst",-32.317,18.318,"",1
+"20","Nelson Bay Cave","UW-178",10540,110,"Oakhurst",-34.101,23.378,"sediments",2
+"21","Matjies River","L-336G",10500,400,"Oakhurst",-34.017,23.417,"charcoal",3
+"22","Melkhoutboom","GaK-1538",10500,190,"Oakhurst",-33.317,25.283,"",1
+"23","Elands Bay Cave","Pta-5336",10460,80,"Oakhurst",-32.317,18.318,"",2
+"24","Heuningsneskrans","Pta-114",10430,150,"Oakhurst",-24.6,30.65,"charred bone",3
+"25","Boomplaas","UW-411",10425,125,"Oakhurst",-33.383,22.183,"",1
+"26","Nelson Bay Cave","OxA-32455",10340,50,"Oakhurst",-34.101,23.378,"bone",2
+"27","Nelson Bay Cave","Q-1085 ",10256,210,"Oakhurst",-34.101,23.378,"charcoal",3
+"28","Matjies River","Pta-6951 ",10215,25,"Oakhurst",-34.017,23.417,"marine shell",1
+"29","Ntloana Tšoana","Pta-5208 ",10200,100,"Oakhurst",-29.317,27.817,"charcoal",2
+"30","Ha Makotoko","OxA-27316",10190,45,"Oakhurst",-29.333,27.8,"charcoal",3
+"31","Nelson Bay Cave","UW-164 ",10180,85,"Oakhurst",-34.101,23.378,"charcoal",1
+"32","Matjies River","Pta-6848",10155,30,"Oakhurst",-34.017,23.417,"marine shell",2
+"33","Nelson Bay Cave","OxA-32454",10155,45,"Oakhurst",-34.101,23.378,"bone",3
+"34","Nelson Bay Cave","Pta-392 ",10150,90,"Oakhurst",-34.101,23.378,"charcoal",1
+"35","Ha Makotoko","OxA-27314",10135,45,"Oakhurst",-29.333,27.8,"charcoal",2
+"36","Grassridge","CAMS-170783",10125,50,"Oakhurst",-31.567,26.85,"charcoal",3
+"37","Ha Makotoko","OxA-27315",10125,45,"Oakhurst",-29.333,27.8,"charcoal",1
+"38","Matjies River","Pta-6838 ",10120,40,"Oakhurst",-34.017,23.417,"charcoal",2
+"39","Matjies River","UCLA-1746-C-2 ",10100,190,"Oakhurst",-34.017,23.417,"",3
+"40","Elands Bay Cave","UW-0193",10090,65,"Oakhurst",-32.317,18.318,"charcoal",1
+"41","Nyonyane","TX-5636",10080,430,"Oakhurst",-27.3,31.9,"charcoal",2
+"42","Ha Makotoko","UGAMS-8986",10060,30,"Oakhurst",-29.333,27.8,"charcoal",3
+"43","Matjies River","Pta-6925",10055,30,"Oakhurst",-34.017,23.417,"marine shell",1
+"44","Byneskranskop 1","OxA-32684",10015,45,"Oakhurst",-34.583,19.467,"bone",2
+"45","Elands Bay Cave","Pta-2481",10000,90,"Oakhurst",-32.317,18.318,"",3
+"46","Ha Makotoko","Pta-5205",9970,90,"Oakhurst",-29.333,27.8,"charcoal",1
+"47","Elands Bay Cave","Pta-2592",9950,270,"Oakhurst",-32.317,18.318,"marine other",2
+"48","Bushman Rock  Shelter","GrN-4813",9940,80,"Oakhurst",-24.583,30.633,"",3
+"49","Matjies River","Pta-6936 ",9890,70,"Oakhurst",-34.017,23.417,"charcoal",1
+"50","Havens Cave","Pta-4620",9790,90,"Oakhurst",-33.667,24.35,"",2
+"51","Matjies River","Pta-6937 ",9790,90,"Oakhurst",-34.017,23.417,"charcoal",3
+"52","Heuningsneskrans","Pta-099",9780,85,"Oakhurst",-24.6,30.65,"charcoal",1
+"53","Kruger Cave","KRU-9",9780,110,"Oakhurst",-25.75,27.25,"",2
+"54","Byneskranskop 1","Pta-1587 ",9760,85,"Oakhurst",-34.583,19.467,"",3
+"55","Sehonghong","Pta-6057",9740,140,"Oakhurst",-29.75,28.75,"",1
+"56","Ntloana Tšoana","Pta-5207 ",9690,120,"Oakhurst",-29.317,27.817,"charcoal",2
+"57","Matjies River","OxA-V-2064-56 ",9688,36,"Oakhurst",-34.017,23.417,"",3
+"58","Ntloana Tšoana","UGAMS-8979",9650,30,"Oakhurst",-29.317,27.817,"charcoal",1
+"59","Elands Bay Cave","Pta-5306",9640,90,"Oakhurst",-32.317,18.318,"",2
+"60","Matjies River","Pta-6686 ",9610,170,"Oakhurst",-34.017,23.417,"charcoal",3
+"61","Elands Bay Cave","Pta-686",9600,90,"Oakhurst",-32.317,18.318,"",1
+"62","Kruger Cave","KRU-8",9590,130,"Oakhurst",-25.75,27.25,"",2
+"63","Bushman Rock  Shelter","GrN-5874",9570,55,"Oakhurst",-24.583,30.633,"",3
+"64","Ntloana Tšoana","UGAMS-8980",9570,30,"Oakhurst",-29.317,27.817,"charcoal",1
+"65","Siphiso","Pta-004",9570,450,"Oakhurst",-26.3,31.967,"bone",2
+"66","Ntloana Tšoana","OxA-32159",9560,45,"Oakhurst",-29.317,27.817,"charcoal",3
+"67","Ntloana Tšoana","UGAMS-8978",9530,30,"Oakhurst",-29.317,27.817,"charcoal",1
+"68","Bushman Rock  Shelter","GrN-4854",9510,55,"Oakhurst",-24.583,30.633,"",2
+"69","Ntloana Tšoana","OxA-26231",9505,55,"Oakhurst",-29.317,27.817,"charcoal",3
+"70","Ntloana Tšoana","Pta-5237 ",9420,110,"Oakhurst",-29.317,27.817,"charcoal",1
+"71","Ntloana Tšoana","UGAMS-8975",9420,30,"Oakhurst",-29.317,27.817,"charcoal",2
+"72","Siphiso","TX-5628",9380,90,"Oakhurst",-26.3,31.967,"snail",3
+"73","Siphiso","Y-1996",9370,160,"Oakhurst",-26.3,31.967,"bone",1
+"74","Siphiso","TX-5629",9360,190,"Oakhurst",-26.3,31.967,"eggshell",2
+"75","Ntloana Tšoana","OxA-26230",9335,30,"Oakhurst",-29.317,27.817,"charcoal",3
+"76","Nelson Bay Cave","OxA-32453",9325,45,"Oakhurst",-34.101,23.378,"bone",1
+"77","Ha Makotoko","UGAMS-8985",9320,30,"Oakhurst",-29.333,27.8,"charcoal",2
+"78","Ha Makotoko","Pta-5204 ",9290,90,"Oakhurst",-29.333,27.8,"charcoal",3
+"79","Sehonghong","Pta-6368 ",9280,45,"Oakhurst",-29.75,28.75,"",1
+"80","Kangkara Cave","Pta-2307 ",9260,90,"Oakhurst",-33.783,23.083,"bone",2
+"81","Rose Cottage Cave","Pta-5599",9250,70,"Oakhurst",-29.25,27.5,"charcoal",3
+"82","Heuningsneskrans","LJ-3198",9230,100,"Oakhurst",-24.6,30.65,"eggshell",1
+"83","Ha Makotoko","UGAMS-11599",9220,30,"Oakhurst",-29.333,27.8,"charcoal",2
+"84","Ha Makotoko","OxA-27313",9215,45,"Oakhurst",-29.333,27.8,"charcoal",3
+"85","Ntloana Tšoana","UGAMS-8976",9150,30,"Oakhurst",-29.317,27.817,"charcoal",1
+"86","Ha Makotoko","OxA-27312",9115,40,"Oakhurst",-29.333,27.8,"charcoal",2
+"87","Boomplaas","UW-410 ",9100,135,"Oakhurst",-33.383,22.183,"",3
+"88","Kruger Cave","KRU-7",9090,90,"Oakhurst",-25.75,27.25,"",1
+"89","Nelson Bay Cave","Pta-391 ",8990,80,"Oakhurst",-34.101,23.378,"charcoal",2
+"90","Buffelskloof","Pta-1484",8960,80,"Oakhurst",-33.667,21.867,"",3
+"91","Ha Makotoko","Pta-5192 ",8950,80,"Oakhurst",-29.333,27.8,"charcoal",1
+"92","Oakhurst","Pta-410",8950,90,"Oakhurst",-33.933,22.617,"bone",2
+"93","Ntloana Tšoana","OxA-32160",8945,45,"Oakhurst",-29.317,27.817,"charcoal",3
+"94","Ntloana Tšoana","OxA-X-2460-48",8905,70,"Oakhurst",-29.317,27.817,"charcoal",1
+"95","Heuningsneskrans","LJ-3199",8880,100,"Oakhurst",-24.6,30.65,"eggshell",2
+"96","Elands Bay Cave","Pta-5305",8860,90,"Oakhurst",-32.317,18.318,"",3
+"97","Siphiso","TX-5630",8860,180,"Oakhurst",-26.3,31.967,"eggshell",1
+"98","Ntloana Tšoana","OxA-32161",8820,40,"Oakhurst",-29.317,27.817,"charcoal",2
+"99","Ntloana Tšoana","OxA-32158",8802,39,"Oakhurst",-29.317,27.817,"charcoal",3
+"100","Ntloana Tšoana","UGAMS-8977",8790,30,"Oakhurst",-29.317,27.817,"charcoal",1
+"101","Ntloana Tšoana","Pta-5238 ",8780,30,"Oakhurst",-29.317,27.817,"charcoal",2
+"102","Ha Makotoko","UGAMS-11597",8710,30,"Oakhurst",-29.333,27.8,"charcoal",3
+"103","Siphiso","Pta-3540",8700,120,"Oakhurst",-26.3,31.967,"bone",1
+"104","Ntloana Tšoana","UGAMS-8974",8690,30,"Oakhurst",-29.317,27.817,"charcoal",2
+"105","Tloutle","Pta-5172",8680,70,"Oakhurst",-29.467,27.767,"charcoal",3
+"106","Rose Cottage Cave","Pta-5560 ",8614,38,"Oakhurst",-29.25,27.5,"charcoal",1
+"107","Ha Makotoko","OxA-27311",8595,45,"Oakhurst",-29.333,27.8,"charcoal",2
+"108","Nelson Bay Cave","UW-184 ",8570,170,"Oakhurst",-34.101,23.378,"marine shell",3
+"109","Nelson Bay Cave","OxA-32451",8550,37,"Oakhurst",-34.101,23.378,"bone",1
+"110","Blydefontein","SMU-1823",8541,417,"Oakhurst",-31.133,25.05,"charcoal",2
+"111","Jubilee Shelter","Wits-1436",8500,240,"Oakhurst",-25.683,27.983,"charcoal",3
+"112","Nelson Bay Cave","OxA-32452",8447,39,"Oakhurst",-34.101,23.378,"bone",1
+"113","Rose Cottage Cave","Pta-5600 ",8380,70,"Oakhurst",-29.25,27.5,"charcoal",2
+"114","Ha Makotoko","Pta-5191 ",8370,80,"Oakhurst",-29.333,27.8,"charcoal",3
+"115","Rose Cottage Cave","Pta-7287",8350,70,"Oakhurst",-29.25,27.5,"charcoal",1
+"116","Wilton Large Rock Shelter","GaK-1541",8260,720,"Oakhurst",-33.325,26.142,"charcoal",2
+"117","Rose Cottage Cave","Pta-7122 ",8160,70,"Oakhurst",-29.25,27.5,"charcoal",3
+"118","Nelson Bay Cave","UW-181 ",8070,240,"Oakhurst",-34.101,23.378,"other",1
+"119","Bonawe","Pta-1709",8040,100,"Oakhurst",-31.317,27.817,"charcoal",2
+"120","Matjies River","Pta-6688 ",7920,100,"Oakhurst",-34.017,23.417,"charcoal",3
+"121","Matjies River","Pta-6687 ",7900,340,"Oakhurst",-34.017,23.417,"charcoal",1

@@ -1,0 +1,268 @@
+"","site","Lab.ID","c14age","c14std","culture","lat","lon","Material.dated","Samp"
+"1","Iron Pig Rock Shelter","Beta-477094",12300,40,"",-25.959,30.243,"charcoal",1
+"2","Pomongwe Cave","Pta-3118",12300,100,"",-20.533,28.5,"",2
+"3","Heuningsneskrans","LJ-3150",12260,110,"Robberg",-24.6,30.65,"",3
+"4","Byneskranskop 1","OxA-32685",12250,55,"Oakhurst",-34.583,19.467,"bone",1
+"5","Drotsky's Cave","S-16591",12250,150,"Oakhurst",-20.333,21.417,"",2
+"6","Sehonghong","Q-3175",12250,300,"Robberg",-29.75,28.75,"",3
+"7","Sehonghong","Q-3176",12200,250,"Robberg",-29.75,28.75,"",1
+"8","Txina-Txina","Wk-44420",12190,30,"",-23.893881,31.912163,"Snail",2
+"9","Sehonghong","Pta-6282",12180,110,"Robberg",-29.75,28.75,"",3
+"10","Bushman Rock  Shelter","GrN-4815",12160,95,"",-24.583,30.633,"charcoal",1
+"11","Nelson Bay Cave","OxA-32606",12155,55,"Robberg",-34.101,23.378,"bone",2
+"12","Ntloana Tšoana","Pta-5236",12110,120,"Robberg",-29.317,27.817,"charcoal",3
+"13","Bushman Rock  Shelter","GrN-4814",12090,95,"Robberg",-24.583,30.633,"charcoal",1
+"14","Boomplaas","Pta-1828",12060,105,"Robberg",-33.383,22.183,"charcoal",2
+"15","Sehonghong","OxA-32926",12010,50,"Robberg",-29.75,28.75,"charcoal",3
+"16","Siphiso","TX-5783",11990,270,"Robberg",-26.3,31.967,"snail",1
+"17","Nelson Bay Cave","UW-177",11950,150,"Oakhurst",-34.101,23.378,"charcoal",2
+"18","Zebra River","Pta-1996",11900,90,"",-24.767,15.35,"charcoal",3
+"19","Buffelskloof","Pta-1805",11875,115,"",-33.667,21.867,"",1
+"20","Shongweni South","Pta-682",11870,130,"Robberg",-29.85,30.717,"",2
+"21","Waterfall Bluff","IT-C-2382",11860,56,"",-31.434,29.824,"charcoal",3
+"22","Waterfall Bluff","IT-C-2539",11855,56,"",-31.434,29.824,"charcoal",1
+"23","Blydefontein","OxA-8530",11850,150,"Robberg",-31.133,25.05,"sediments",2
+"24","Ntloana Tšoana","OxA-X-2460-49",11830,90,"Robberg",-29.317,27.817,"charcoal",3
+"25","Siphiso","TZ-5631",11820,300,"Robberg",-26.3,31.967,"snail",1
+"26","Klipfonteinrand","D-AMS-001836",11723,52,"Oakhurst",-32.067,20.167,"",2
+"27","Florisbad","Pta-3643",11700,110,"",-28.767,26.067,"",3
+"28","Waterfall Bluff","IT-C-2328",11687,63,"",-31.434,29.824,"charcoal",1
+"29","Waterfall Bluff","BETA-516054",11680,40,"",-31.434,29.824,"charcoal",2
+"30","Waterfall Bluff","IT-C-2390",11650,55,"",-31.434,29.824,"charcoal",3
+"31","Waterfall Bluff","IT-C-2569",11641,56,"",-31.434,29.824,"charcoal",1
+"32","Waterfall Bluff","IT-C-2327",11632,66,"",-31.434,29.824,"charcoal",2
+"33","Faraoskop","Pta-4817",11550,120,"Robberg",-32.1253,18.6144,"charcoal",3
+"34","Nelson Bay Cave","UW-162 ",11505,110,"Oakhurst",-34.101,23.378,"charcoal",1
+"35","Elands Bay Cave","AA-5834",11415,80,"Robberg",-32.317,18.318,"",2
+"36","Elands Bay Cave","Pta- 6756",11370,110,"Robberg",-32.317,18.318,"",3
+"37","Wonderwerk","Pta-3422",11350,100,"",-27.846,23.555,"plant remains",1
+"38","Matjies River","L-336H",11250,400,"Oakhurst",-34.017,23.417,"charcoal",2
+"39","Uitkomst Cave","Y-1324",11250,200,"",-25.884,27.618,"",3
+"40","Drotsky's Cave","Beta-50163",11240,60,"Oakhurst",-20.333,21.417,"",1
+"41","Sehonghong","Pta-6065",11090,230,"Robberg",-29.75,28.75,"",2
+"42","Nelson Bay Cave","I-6515",11080,260,"Oakhurst",-34.101,23.378,"charcoal",3
+"43","Elands Bay Cave","UW-0192",11070,140,"Oakhurst",-32.317,18.318,"charcoal",1
+"44","Balerno Main Shelter","Pta-8639",11040,90,"",-22.265,29.188,"eggshell",2
+"45","Nyonyane","TX-5637",10970,430,"Oakhurst",-27.3,31.9,"charcoal",3
+"46","Elands Bay Cave","OxA-478",10860,180,"Oakhurst",-32.317,18.318,"bone",1
+"47","Iron Pig Rock Shelter","Beta-522532",10850,30,"",-25.959,30.243,"charcoal",2
+"48","Elands Bay Cave","AA-5833",10840,70,"Oakhurst",-32.317,18.318,"",3
+"49","Faraoskop","Pta-4816",10810,100,"",-32.1253,18.6144,"charcoal",1
+"50","Equus Cave","Pta-4051/57",10800,270,"",-27.617,24.633,"bone",2
+"51","Elands Bay Cave","Pta-0737",10700,100,"Oakhurst",-32.317,18.318,"",3
+"52","Elands Bay Cave","Pta-5369",10660,100,"Oakhurst",-32.317,18.318,"",1
+"53","Matjies River","Pta-6702",10660,280,"Oakhurst",-34.017,23.417,"charcoal",2
+"54","Elands Bay Cave","Pta-0732",10640,110,"Oakhurst",-32.317,18.318,"",3
+"55","Elands Bay Cave","Pta-6758",10620,100,"Oakhurst",-32.317,18.318,"",1
+"56","Nelson Bay Cave","UW-218",10600,150,"Oakhurst",-34.101,23.378,"charcoal",2
+"57","Elands Bay Cave","Pta-5361",10560,100,"Oakhurst",-32.317,18.318,"",3
+"58","Nelson Bay Cave","UW-178",10540,110,"Oakhurst",-34.101,23.378,"sediments",1
+"59","Boomplaas","OxA-33812",10505,45,"Robberg",-33.383,22.183,"charcoal",2
+"60","Matjies River","L-336G",10500,400,"Oakhurst",-34.017,23.417,"charcoal",3
+"61","Melkhoutboom","GaK-1538",10500,190,"Oakhurst",-33.317,25.283,"",1
+"62","Sibudu Cave","Pta-8137",10490,110,"",-29.5,31.083,"charcoal",2
+"63","Elands Bay Cave","Pta-5336",10460,80,"Oakhurst",-32.317,18.318,"",3
+"64","Nelson Bay Cave","OxA-32457",10450,50,"Robberg",-34.101,23.378,"bone",1
+"65","Boomplaas","AA-6958",10430,80,"Robberg",-33.383,22.183,"eggshell",2
+"66","Heuningsneskrans","Pta-114",10430,150,"Oakhurst",-24.6,30.65,"charred bone",3
+"67","Kruger Cave","KRU-11",10430,150,"Robberg",-25.75,27.25,"",1
+"68","Boomplaas","UW-411",10425,125,"Oakhurst",-33.383,22.183,"",2
+"69","Apollo 11 Cave","KN-I-611",10420,80,"Wilton",-27.75,17.1,"charcoal",3
+"70","Nelson Bay Cave","OxA-32455",10340,50,"Oakhurst",-34.101,23.378,"bone",1
+"71","Kruger Cave","KRU-10",10310,150,"Robberg",-25.75,27.25,"",2
+"72","Nelson Bay Cave","Q-1085 ",10256,210,"Oakhurst",-34.101,23.378,"charcoal",3
+"73","Matjies River","Pta-6951 ",10215,25,"Oakhurst",-34.017,23.417,"marine shell",1
+"74","Ntloana Tšoana","Pta-5208 ",10200,100,"Oakhurst",-29.317,27.817,"charcoal",2
+"75","Ravenscraig","Pta-3451",10200,100,"Robberg",-31,27.783,"bone",3
+"76","Wonderwerk","Pta-2786",10200,90,"",-27.846,23.555,"charcoal",1
+"77","Ha Makotoko","OxA-27316",10190,45,"Oakhurst",-29.333,27.8,"charcoal",2
+"78","Nelson Bay Cave","UW-164 ",10180,85,"Oakhurst",-34.101,23.378,"charcoal",3
+"79","Matjies River","Pta-6848",10155,30,"Oakhurst",-34.017,23.417,"marine shell",1
+"80","Nelson Bay Cave","OxA-32454",10155,45,"Oakhurst",-34.101,23.378,"bone",2
+"81","Nelson Bay Cave","Pta-392 ",10150,90,"Oakhurst",-34.101,23.378,"charcoal",3
+"82","Kruger Cave","Pta-1272",10150,90,"Robberg",-25.75,27.25,"charcoal",1
+"83","Ha Makotoko","OxA-27314",10135,45,"Oakhurst",-29.333,27.8,"charcoal",2
+"84","Grassridge","CAMS-170783",10125,50,"Oakhurst",-31.567,26.85,"charcoal",3
+"85","Ha Makotoko","OxA-27315",10125,45,"Oakhurst",-29.333,27.8,"charcoal",1
+"86","Matjies River","Pta-6838 ",10120,40,"Oakhurst",-34.017,23.417,"charcoal",2
+"87","Wonderwerk","Pta-6871",10120,100,"",-27.846,23.555,"charcoal",3
+"88","Wonderwerk","Pta-6872",10120,120,"",-27.846,23.555,"charcoal",1
+"89","Matjies River","UCLA-1746-C-2 ",10100,190,"Oakhurst",-34.017,23.417,"",2
+"90","Elands Bay Cave","UW-0193",10090,65,"Oakhurst",-32.317,18.318,"charcoal",3
+"91","Nyonyane","TX-5636",10080,430,"Oakhurst",-27.3,31.9,"charcoal",1
+"92","Wonderwerk","Pta-6884",10080,100,"",-27.846,23.555,"charcoal",2
+"93","Ha Makotoko","UGAMS-8986",10060,30,"Oakhurst",-29.333,27.8,"charcoal",3
+"94","Matjies River","Pta-6925",10055,30,"Oakhurst",-34.017,23.417,"marine shell",1
+"95","Siphiso","TX-5782",10050,160,"Robberg",-26.3,31.967,"snail",2
+"96","N2005/1, Sesfontein","KIA-29629",10035,45,"",-19.083,13.35,"charcoal",3
+"97","Byneskranskop 1","OxA-32684",10015,45,"Oakhurst",-34.583,19.467,"bone",1
+"98","Florisbad","Pta-1125",10000,100,"",-28.767,26.067,"",2
+"99","Elands Bay Cave","Pta-2481",10000,90,"Oakhurst",-32.317,18.318,"",3
+"100","Ravenscraig","Pta-3194",10000,80,"Robberg",-31,27.783,"charcoal",1
+"101","Sikhanyisweni","Pta-3780",10000,100,"",-28.467,30.383,"charcoal",2
+"102","Te Vrede","Pta-3203",10000,120,"Final MSA",-31.217,28.183,"",3
+"103","Wonderwerk","Pta-2790",10000,70,"",-27.846,23.555,"charcoal",1
+"104","Ha Makotoko","Pta-5205",9970,90,"Oakhurst",-29.333,27.8,"charcoal",2
+"105","Elands Bay Cave","Pta-2592",9950,270,"Oakhurst",-32.317,18.318,"marine other",3
+"106","Bushman Rock  Shelter","GrN-4813",9940,80,"Oakhurst",-24.583,30.633,"",1
+"107","Matjies River","Pta-6936 ",9890,70,"Oakhurst",-34.017,23.417,"charcoal",2
+"108","Umhlatuzana","Pta-4631",9870,90,"Robberg",-29.8,30.75,"charcoal",3
+"109","Uitkomst Cave","BM-unknown",9844,200,"",-25.884,27.618,"",1
+"110","Elands Bay Cave","OxA-456",9800,160,"",-32.317,18.318,"bone",2
+"111","Havens Cave","Pta-4620",9790,90,"Oakhurst",-33.667,24.35,"",3
+"112","Matjies River","Pta-6937 ",9790,90,"Oakhurst",-34.017,23.417,"charcoal",1
+"113","Nswatugi Cave","Pta-1771",9790,90,"",-20.533,28.467,"charcoal",2
+"114","Heuningsneskrans","Pta-099",9780,85,"Oakhurst",-24.6,30.65,"charcoal",3
+"115","Kruger Cave","KRU-9",9780,110,"Oakhurst",-25.75,27.25,"",1
+"116","Byneskranskop 1","Pta-1587 ",9760,85,"Oakhurst",-34.583,19.467,"",2
+"117","Wonderwerk","Pta-2852",9760,120,"",-27.846,23.555,"charcoal",3
+"118","Elands Bay Cave","Pta-3086",9750,100,"",-32.317,18.318,"bone",1
+"119","Sehonghong","Pta-6057",9740,140,"Oakhurst",-29.75,28.75,"",2
+"120","Sikhanyisweni","Pta-3782",9700,100,"",-28.467,30.383,"charcoal",3
+"121","Waterfall Bluff","IT-C-2349",9691,50,"",-31.434,29.824,"charcoal",1
+"122","Ntloana Tšoana","Pta-5207 ",9690,120,"Oakhurst",-29.317,27.817,"charcoal",2
+"123","Matjies River","OxA-V-2064-56 ",9688,36,"Oakhurst",-34.017,23.417,"",3
+"124","Waterfall Bluff","BETA-461584",9680,30,"",-31.434,29.824,"charcoal",1
+"125","Waterfall Bluff","IT-C-2329",9670,55,"",-31.434,29.824,"charcoal",2
+"126","Ntloana Tšoana","UGAMS-8979",9650,30,"Oakhurst",-29.317,27.817,"charcoal",3
+"127","Waterfall Bluff","IT-C-2532",9644,46,"",-31.434,29.824,"charcoal",1
+"128","Elands Bay Cave","Pta-5306",9640,90,"Oakhurst",-32.317,18.318,"",2
+"129","Lion Cavern","Y-1713",9640,80,"",-26.2,31.033,"charcoal",3
+"130","Waterfall Bluff","BETA-442147",9640,30,"",-31.434,29.824,"charcoal",1
+"131","Waterfall Bluff","BETA-469052",9640,30,"",-31.434,29.824,"charcoal",2
+"132","Waterfall Bluff","IT-C-2556",9639,44,"",-31.434,29.824,"charcoal",3
+"133","Uitkomst Cave","Y-1323",9630,200,"",-25.884,27.618,"charcoal",1
+"134","Matjies River","Pta-6686 ",9610,170,"Oakhurst",-34.017,23.417,"charcoal",2
+"135","Waterfall Bluff","IT-C-2321",9607,57,"",-31.434,29.824,"charcoal",3
+"136","Waterfall Bluff","IT-C-2385",9602,50,"",-31.434,29.824,"charcoal",1
+"137","Elands Bay Cave","Pta-686",9600,90,"Oakhurst",-32.317,18.318,"",2
+"138","Waterfall Bluff","IT-C-2533",9599,44,"",-31.434,29.824,"charcoal",3
+"139","Waterfall Bluff","IT-C-2560",9599,44,"",-31.434,29.824,"charcoal",1
+"140","Waterfall Bluff","IT-C-2322",9596,49,"",-31.434,29.824,"charcoal",2
+"141","Waterfall Bluff","IT-C-2348",9596,53,"",-31.434,29.824,"charcoal",3
+"142","Waterfall Bluff","IT-C-2388",9594,51,"",-31.434,29.824,"charcoal",1
+"143","Kruger Cave","KRU-8",9590,130,"Oakhurst",-25.75,27.25,"",2
+"144","Waterfall Bluff","IT-C-2557",9580,45,"",-31.434,29.824,"charcoal",3
+"145","Waterfall Bluff","IT-C-2377",9577,46,"",-31.434,29.824,"charcoal",1
+"146","Bushman Rock  Shelter","GrN-5874",9570,55,"Oakhurst",-24.583,30.633,"",2
+"147","Ntloana Tšoana","UGAMS-8980",9570,30,"Oakhurst",-29.317,27.817,"charcoal",3
+"148","Siphiso","Pta-004",9570,450,"Oakhurst",-26.3,31.967,"bone",1
+"149","Waterfall Bluff","IT-C-2387",9568,47,"",-31.434,29.824,"charcoal",2
+"150","Waterfall Bluff","IT-C-2330",9567,52,"",-31.434,29.824,"charcoal",3
+"151","Waterfall Bluff","IT-C-2555",9562,48,"",-31.434,29.824,"charcoal",1
+"152","Waterfall Bluff","IT-C-2389",9561,46,"",-31.434,29.824,"charcoal",2
+"153","Ntloana Tšoana","OxA-32159",9560,45,"Oakhurst",-29.317,27.817,"charcoal",3
+"154","Rose Cottage Cave","Pta-7275",9560,70,"Robberg",-29.25,27.5,"charcoal",1
+"155","Waterfall Bluff","IT-C-2535",9560,43,"",-31.434,29.824,"charcoal",2
+"156","Waterfall Bluff","IT-C-2358",9560,54,"",-31.434,29.824,"charcoal",3
+"157","Waterfall Bluff","BETA-469053",9550,30,"",-31.434,29.824,"charcoal",1
+"158","Waterfall Bluff","IT-C-2590",9548,48,"",-31.434,29.824,"charcoal",2
+"159","Waterfall Bluff","IT-C-2561",9544,50,"",-31.434,29.824,"charcoal",3
+"160","Waterfall Bluff","IT-C-2383",9543,47,"",-31.434,29.824,"charcoal",1
+"161","Waterfall Bluff","IT-C-2384",9543,47,"",-31.434,29.824,"charcoal",2
+"162","Waterfall Bluff","IT-C-2374",9541,49,"",-31.434,29.824,"charcoal",3
+"163","Waterfall Bluff","IT-C-2386",9541,55,"",-31.434,29.824,"charcoal",1
+"164","Waterfall Bluff","BETA-461585",9540,30,"",-31.434,29.824,"charcoal",2
+"165","Waterfall Bluff","IT-C-2347",9534,46,"",-31.434,29.824,"charcoal",3
+"166","Ntloana Tšoana","UGAMS-8978",9530,30,"Oakhurst",-29.317,27.817,"charcoal",1
+"167","Waterfall Bluff","IT-C-2360",9529,69,"",-31.434,29.824,"charcoal",2
+"168","Waterfall Bluff","IT-C-2559",9522,45,"",-31.434,29.824,"charcoal",3
+"169","Waterfall Bluff","BETA-442146",9520,30,"",-31.434,29.824,"charcoal",1
+"170","Waterfall Bluff","IT-C-2351",9515,51,"",-31.434,29.824,"charcoal",2
+"171","Bushman Rock  Shelter","GrN-4854",9510,55,"Oakhurst",-24.583,30.633,"",3
+"172","Ntloana Tšoana","OxA-26231",9505,55,"Oakhurst",-29.317,27.817,"charcoal",1
+"173","Waterfall Bluff","IT-C-2537",9499,45,"",-31.434,29.824,"charcoal",2
+"174","Waterfall Bluff","IT-C-2540",9497,49,"",-31.434,29.824,"charcoal",3
+"175","Waterfall Bluff","IT-C-2542",9470,43,"",-31.434,29.824,"charcoal",1
+"176","Waterfall Bluff","IT-C-2531",9458,43,"",-31.434,29.824,"charcoal",2
+"177","Apollo 11 Cave","KN-I-610",9430,90,"Wilton",-27.75,17.1,"",3
+"178","Aspoort Cave","Pta-2250",9420,160,"",-32.5,19.519,"charcoal",1
+"179","Ntloana Tšoana","Pta-5237 ",9420,110,"Oakhurst",-29.317,27.817,"charcoal",2
+"180","Ntloana Tšoana","UGAMS-8975",9420,30,"Oakhurst",-29.317,27.817,"charcoal",3
+"181","Blydefontein","OxA-7876",9400,100,"",-31.13,25.05,"sediments",1
+"182","Pomongwe Cave","SR-12",9400,100,"",-20.533,28.5,"charcoal",2
+"183","Strathalan A","Pta-4634",9400,900,"",-30.983,28.383,"charcoal",3
+"184","Siphiso","TX-5628",9380,90,"Oakhurst",-26.3,31.967,"snail",1
+"185","Siphiso","Y-1996",9370,160,"Oakhurst",-26.3,31.967,"bone",2
+"186","Siphiso","TX-5629",9360,190,"Oakhurst",-26.3,31.967,"eggshell",3
+"187","Rose Cottage Cave","Pta-7228",9340,80,"Robberg",-29.25,27.5,"charcoal",1
+"188","Ntloana Tšoana","OxA-26230",9335,30,"Oakhurst",-29.317,27.817,"charcoal",2
+"189","Nelson Bay Cave","OxA-32453",9325,45,"Oakhurst",-34.101,23.378,"bone",3
+"190","Ha Makotoko","UGAMS-8985",9320,30,"Oakhurst",-29.333,27.8,"charcoal",1
+"191","Nyonyane","TX-5635",9310,90,"",-27.3,31.9,"charcoal",2
+"192","Ha Makotoko","Pta-5204 ",9290,90,"Oakhurst",-29.333,27.8,"charcoal",3
+"193","Sehonghong","Pta-6368 ",9280,45,"Oakhurst",-29.75,28.75,"",1
+"194","Kangkara Cave","Pta-2307 ",9260,90,"Oakhurst",-33.783,23.083,"bone",2
+"195","Rose Cottage Cave","Pta-5599",9250,70,"Oakhurst",-29.25,27.5,"charcoal",3
+"196","Heuningsneskrans","LJ-3198",9230,100,"Oakhurst",-24.6,30.65,"eggshell",1
+"197","Ha Makotoko","UGAMS-11599",9220,30,"Oakhurst",-29.333,27.8,"charcoal",2
+"198","Ha Makotoko","OxA-27313",9215,45,"Oakhurst",-29.333,27.8,"charcoal",3
+"199","Umhlatuzana","Pta-4307",9180,90,"Robberg",-29.8,30.75,"charcoal",1
+"200","Iron Pig Rock Shelter","Beta-477093",9170,30,"",-25.959,30.243,"charcoal",2
+"201","Chicaza","Wk-40719",9163,25,"",-12.89,35.25,"charcoal",3
+"202","Ntloana Tšoana","UGAMS-8976",9150,30,"Oakhurst",-29.317,27.817,"charcoal",1
+"203","Wonderwerk","Pta-2546",9130,90,"",-27.846,23.555,"charcoal",2
+"204","Ha Makotoko","OxA-27312",9115,40,"Oakhurst",-29.333,27.8,"charcoal",3
+"205","Kruger Cave","Pta-1273",9100,90,"",-25.75,27.25,"",1
+"206","Boomplaas","UW-410 ",9100,135,"Oakhurst",-33.383,22.183,"",2
+"207","Oakhurst","Pta-3724",9100,90,"",-33.933,22.617,"bone",3
+"208","Kruger Cave","KRU-7",9090,90,"Oakhurst",-25.75,27.25,"",1
+"209","Wonderwerk","Pta-3439",9030,90,"",-27.846,23.555,"eggshell",2
+"210","Nelson Bay Cave","Pta-391 ",8990,80,"Oakhurst",-34.101,23.378,"charcoal",3
+"211","Buffelskloof","Pta-1484",8960,80,"Oakhurst",-33.667,21.867,"",1
+"212","Ha Makotoko","Pta-5192 ",8950,80,"Oakhurst",-29.333,27.8,"charcoal",2
+"213","Oakhurst","Pta-410",8950,90,"Oakhurst",-33.933,22.617,"bone",3
+"214","Ntloana Tšoana","OxA-32160",8945,45,"Oakhurst",-29.317,27.817,"charcoal",1
+"215","Ntloana Tšoana","OxA-X-2460-48",8905,70,"Oakhurst",-29.317,27.817,"charcoal",2
+"216","N2005/2, Sesfontein","KIA-29631",8890,30,"",-19.05,13.533,"charcoal",3
+"217","Heuningsneskrans","LJ-3199",8880,100,"Oakhurst",-24.6,30.65,"eggshell",1
+"218","Nyonyane","TX-5634",8880,140,"",-27.3,31.9,"charcoal",2
+"219","Iron Pig Rock Shelter","Beta-477097",8860,30,"",-25.959,30.243,"charcoal",3
+"220","Elands Bay Cave","Pta-5305",8860,90,"Oakhurst",-32.317,18.318,"",1
+"221","Siphiso","TX-5630",8860,180,"Oakhurst",-26.3,31.967,"eggshell",2
+"222","Ntloana Tšoana","OxA-32161",8820,40,"Oakhurst",-29.317,27.817,"charcoal",3
+"223","Ntloana Tšoana","OxA-32158",8802,39,"Oakhurst",-29.317,27.817,"charcoal",1
+"224","Ntloana Tšoana","UGAMS-8977",8790,30,"Oakhurst",-29.317,27.817,"charcoal",2
+"225","Ntloana Tšoana","Pta-5238 ",8780,30,"Oakhurst",-29.317,27.817,"charcoal",3
+"226","Ha Makotoko","UGAMS-11597",8710,30,"Oakhurst",-29.333,27.8,"charcoal",1
+"227","Siphiso","Pta-3540",8700,120,"Oakhurst",-26.3,31.967,"bone",2
+"228","Ntloana Tšoana","UGAMS-8974",8690,30,"Oakhurst",-29.317,27.817,"charcoal",3
+"229","Tloutle","Pta-5172",8680,70,"Oakhurst",-29.467,27.767,"charcoal",1
+"230","Maqonqo Shelter","Pta-6259",8670,140,"Wilton",-28.344,30.424,"charcoal",2
+"231","Rose Cottage Cave","Pta-2076",8640,100,"Wilton",-29.25,27.5,"charcoal",3
+"232","Rose Cottage Cave","Pta-5560 ",8614,38,"Oakhurst",-29.25,27.5,"charcoal",1
+"233","Ha Makotoko","OxA-27311",8595,45,"Oakhurst",-29.333,27.8,"charcoal",2
+"234","Nelson Bay Cave","UW-184 ",8570,170,"Oakhurst",-34.101,23.378,"marine shell",3
+"235","Nelson Bay Cave","OxA-32451",8550,37,"Oakhurst",-34.101,23.378,"bone",1
+"236","Blydefontein","SMU-1823",8541,417,"Oakhurst",-31.133,25.05,"charcoal",2
+"237","Jubilee Shelter","Wits-1436",8500,240,"Oakhurst",-25.683,27.983,"charcoal",3
+"238","Nelson Bay Cave","OxA-32452",8447,39,"Oakhurst",-34.101,23.378,"bone",1
+"239","Mirabib Hill Shelter","Pta-1368",8410,80,"",-23.463,15.325,"charcoal",2
+"240","Rose Cottage Cave","Pta-5600 ",8380,70,"Oakhurst",-29.25,27.5,"charcoal",3
+"241","Ha Makotoko","Pta-5191 ",8370,80,"Oakhurst",-29.333,27.8,"charcoal",1
+"242","Steenbokfontein","Pta-7327",8370,80,"Wilton",-32.162,18.333,"charcoal",2
+"243","Rose Cottage Cave","Pta-7287",8350,70,"Oakhurst",-29.25,27.5,"charcoal",3
+"244","Elands Bay Cave","Pta-1871",8340,80,"Wilton",-32.317,18.318,"",1
+"245","Chicaza","Wk-40716",8293,40,"",-12.89,35.25,"bone",2
+"246","Nelson Bay Cave","OxA-32450",8281,38,"Wilton",-34.101,23.378,"bone",3
+"247","Oakhurst","Pta-375",8270,55,"",-33.933,22.617,"charcoal",1
+"248","Wilton Large Rock Shelter","GaK-1541",8260,720,"Oakhurst",-33.325,26.142,"charcoal",2
+"249","Namtib","KN-2143",8230,70,"",-26.033,16.25,"charcoal",3
+"250","Mirabib Hill Shelter","Pta-1013",8200,80,"",-23.463,15.325,"charcoal",1
+"251","Rose Cottage Cave","Pta-7122 ",8160,70,"Oakhurst",-29.25,27.5,"charcoal",2
+"252","Elands Bay Cave","AA-5832",8110,90,"Wilton",-32.317,18.318,"eggshell",3
+"253","Te Vrede","Pta-3204",8100,80,"",-31.217,28.183,"",1
+"254","Nyonyane","TX-5633",8080,160,"",-27.3,31.9,"charcoal",2
+"255","Nelson Bay Cave","UW-181 ",8070,240,"Oakhurst",-34.101,23.378,"other",3
+"256","Bonawe","Pta-1709",8040,100,"Oakhurst",-31.317,27.817,"charcoal",1
+"257","Dikbosch 1","Pta-3411",8010,60,"Wilton",-28.652,23.903,"charcoal",2
+"258","Elands Bay Cave","Pta-1829",8000,95,"",-32.317,18.318,"bone",3
+"259","Wonderwerk","Pta-3366",8000,80,"",-27.846,23.555,"eggshell",1
+"260","Steenbokfontein","Pta-7326",7950,80,"Wilton",-32.162,18.333,"charcoal",2
+"261","Matjies River","Pta-6688 ",7920,100,"Oakhurst",-34.017,23.417,"charcoal",3
+"262","Elands Bay Cave","Pta-1872",7910,80,"Wilton",-32.317,18.318,"",1
+"263","Oakhurst","Pta-377",7910,70,"Wilton",-33.933,22.617,"charcoal",2
+"264","Matjies River","Pta-6687 ",7900,340,"Oakhurst",-34.017,23.417,"charcoal",3
+"265","Nswatugi Cave","Pta-2046",7880,70,"",-20.533,28.467,"charcoal",1
+"266","Cave James","Wits-1743",7840,170,"",-25.683,27.983,"",2
+"267","Namtib","Pta-1185",7840,90,"Wilton",-26.033,16.25,"charcoal",3

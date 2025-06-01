@@ -156,23 +156,56 @@ SARD |>
   
   filter(Species != "Homo sapiens") -> SARD_Oak_Wil
 
-# Select and trim Oakhurst dates
+# Select and trim Oakhurst and Wilton dates
 SARD_Oak_Wil |>
   filter(culture == "Oakhurst") |>
   filter(c14age > quantile(c14age, 0.05) &
            c14age < quantile(c14age, 0.95)) -> SARD_Oak_trimmed
 
-write.csv(SARD_Oak_trimmed, paste0(dir,"/data/SARD_Oak_Trimmed.csv"))
-
-# Select and trim Wilton dates
 SARD_Oak_Wil |>
   filter(culture == "Wilton") |>
   filter(c14age > quantile(c14age, 0.05) &
            c14age < quantile(c14age, 0.95)) -> SARD_Wil_trimmed
 
-write.csv(SARD_Wil_trimmed, paste0(dir,"/data/SARD_Wil_Trimmed.csv"))
 
 
+# Filter and organize for expected OxCal input
+# Also exclude dates associated with the transition layer
+SARD_Oak_trimmed |>
+    dplyr::select(site, Lab.ID, c14age,
+                c14std, culture, lat, lon, Material.dated) |>
+  filter(c14age > max(SARD_Wil_trimmed$c14age)) |>
+  arrange(desc(c14age)) |>
+  mutate(Samp = c(rep(seq(1,3,1), floor(n()/3)), seq(1,n()%%3,1))) -> SARD_Oak_Temp
+write.csv(SARD_Oak_Temp, paste0(dir,"/data/SARD_Oak_Trimmed.csv"))
+
+SARD_Wil_trimmed |>
+    dplyr::select(site, Lab.ID, c14age,
+                c14std, culture, lat, lon, Material.dated) |>
+  filter(c14age < min(SARD_Oak_trimmed$c14age)) |>
+  arrange(desc(c14age)) |>
+  mutate(Samp = c(rep(seq(1,3,1), floor(n()/3)), seq(1,n()%%3,1))) -> SARD_Wil_Temp
+write.csv(SARD_Wil_Temp, paste0(dir,"/data/SARD_Wil_Trimmed.csv"))
+
+# Create output for a transition layer in OxCal
+SARD_Oak_trimmed |>
+  dplyr::filter(SARD_Oak_trimmed$c14age <= max(SARD_Wil_trimmed$c14age)) -> Oak_Tran
+
+SARD_Wil_trimmed |>
+  dplyr::filter(SARD_Wil_trimmed$c14age >= 
+                  min(SARD_Oak_trimmed$c14age)) -> Wil_Tran
+
+rbind(Oak_Tran, Wil_Tran) |>
+  dplyr::select(site, Lab.ID, c14age,
+                c14std, culture, lat, lon, Material.dated) |>
+  arrange(desc(c14age)) |>
+  dplyr::distinct(Lab.ID, .keep_all = TRUE) -> Oak_Wil_Tran
+write.csv(Oak_Wil_Tran, paste0(dir,"/data/Oak_Wil_Trimmed_Transition.csv"))
+
+
+
+
+###################################################################################
 # Select all data based on Oakhurst and Wilton time periods
 SARD |> 
   filter(c14age < max(SARD_Oak_trimmed$c14age) &
@@ -181,17 +214,43 @@ SARD |>
 SARD_All |>
   filter(c14age < max(SARD_Oak_trimmed$c14age) &
                  c14age > min(SARD_Oak_trimmed$c14age)) -> SARD_All_Oak
-write.csv(SARD_All_Oak, paste0(dir,"SARD_All_Oak_Trimmed.csv"))
 
 SARD_All |>
   filter(c14age < max(SARD_Wil_trimmed$c14age) &
                  c14age > min(SARD_Wil_trimmed$c14age)) -> SARD_All_Wil
-write.csv(SARD_All_Wil, paste0(dir,"SARD_All_Wil_Trimmed.csv"))
 
 
+# Filter and organize for expected OxCal input
+# Also exclude dates associated with the transition layer
+SARD_All_Oak |>
+  dplyr::select(site, Lab.ID, c14age,
+                c14std, culture, lat, lon, Material.dated) |>
+  filter(c14age > max(SARD_All_Wil$c14age)) |>
+  arrange(desc(c14age)) |>
+  mutate(Samp = c(rep(seq(1,3,1), floor(n()/3)))) -> SARD_Oak_Temp
+write.csv(SARD_Oak_Temp, paste0(dir,"/data/SARD_All_Oak_Trimmed.csv"))
 
+SARD_All_Wil |>
+    dplyr::select(site, Lab.ID, c14age,
+                c14std, culture, lat, lon, Material.dated) |>
+  filter(c14age < min(SARD_All_Oak$c14age)) |>
+  arrange(desc(c14age)) |>
+  mutate(Samp = c(rep(seq(1,3,1), floor(n()/3)))) -> SARD_Wil_Temp
+write.csv(SARD_Wil_Temp, paste0(dir,"/data/SARD_All_Wil_Trimmed.csv"))
 
+# Create output for a transition layer in OxCal
+SARD_All_Oak |>
+  dplyr::filter(SARD_All_Oak$c14age <= max(SARD_All_Wil$c14age)) -> Oak_Tran
 
+SARD_All_Wil |>
+  dplyr::filter(SARD_All_Wil$c14age >= min(SARD_All_Oak$c14age)) -> Wil_Tran
+
+rbind(Oak_Tran, Wil_Tran) |>
+    dplyr::select(site, Lab.ID, c14age,
+                c14std, culture, lat, lon, Material.dated) |>
+  arrange(desc(c14age)) |>
+  dplyr::distinct(Lab.ID, .keep_all = TRUE) -> Oak_Wil_Tran
+write.csv(Oak_Wil_Tran, paste0(dir,"/data/Oak_Wil_All_Transition.csv"))
 ```
 
 ## Winter Rainfall Zone

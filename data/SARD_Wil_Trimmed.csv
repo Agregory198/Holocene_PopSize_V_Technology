@@ -1,188 +1,162 @@
-"","site","Site.code","lat","lon","Country","Province.or.district","RFZ","Biome","Stratigraphic.context","Dating.technique","Material.dated","Species","Lab.ID","c14age","c14std","Archaeological.Period","culture","Sample.context","Site.Type","delta.13","refcode","Notes"
-"1","Amadzimba Cave","AMZ",-20.75,28.75,"Zimbabwe","Matabeleland South","S","Savanna Biome","6-12"", sq. Ce, Cf","conventional 14C","other","","BM-57",4200,150,"LSA","Wilton","","rock shelter",NA,"barker1960bmn","carbonized bone and wood ash"
-"2","Apollo 11 Cave","A11",-27.75,17.1,"Namibia","||Karas Region","S","Desert Biome","Layer C","conventional 14C","charcoal","","KN-I-609",6200,65,"LSA","Wilton","","rock shelter",NA,"freundlich1980rm","microlithic LSA"
-"3","Apollo 11 Cave","A11",-27.75,17.1,"Namibia","||Karas Region","S","Desert Biome","Layer C","conventional 14C","charcoal","","KN-I-867",7200,75,"LSA","Wilton","","rock shelter",NA,"freundlich1980rm","microlithic LSA"
-"4","Apollo 11 Cave","A11",-27.75,17.1,"Namibia","||Karas Region","S","Desert Biome","Layer C:B9","conventional 14C","charcoal","","Pta-1019",6480,80,"LSA","Wilton","","rock shelter",NA,"vogel1981prd","microlithic LSA"
-"5","Apollo 11 Cave","A11",-27.75,17.1,"Namibia","||Karas Region","S","Desert Biome","Layer C","conventional 14C","charcoal","","Pta-1020",7280,80,"LSA","Wilton","","rock shelter",NA,"vogel1981prd","microlithic LSA"
-"6","Blombosfontein 1","BBF1",-34.4,21.217,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","","Pta-6177",6960,70,"LSA","Wilton","","rock shelter",NA,"henshilwood2008hps",""
-"7","Blombosfontein 2","BBF2",-34.4,21.217,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","","Pta-6181",6740,70,"LSA","Wilton","","rock shelter",NA,"henshilwood2008hps",""
-"8","Blombosfontein 3","BBF3",-34.4,21.217,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","","Pta-6180",5960,70,"LSA","Wilton","","rock shelter",NA,"henshilwood2008hps",""
-"9","Blombosfontein 4","BBF4",-34.4,21.217,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","","Pta-6176",5680,70,"LSA","Wilton","","rock shelter",NA,"henshilwood2008hps",""
-"10","Blombosfontein 5","BBF5",-34.4,21.217,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","","Pta-6182 ",5520,70,"LSA","Wilton","","rock shelter",NA,"henshilwood2008hps",""
-"11","Blombosfontein 6","BBF6",-34.4,21.217,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","","Pta-6178",4070,60,"LSA","Wilton","","rock shelter",NA,"henshilwood2008hps",""
-"12","Blombosfontein 6","BBF6",-34.4,21.217,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","marine shell","","Pta-6709",3630,70,"LSA","Wilton","","rock shelter",NA,"henshilwood2008hps",""
-"13","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","GAC/CAU3","AMS","bone","","D-AMS-1231",2728,32,"LSA","Wilton","","rock shelter",NA,"bousman2005cls; bousman2016qed","Developed Wilton"
-"14","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","GAC/CAU3","AMS","bone","","OxA-27365",2791,25,"LSA","Wilton","","rock shelter",-18.6,"bousman2005cls; bousman2016qed","Developed Wilton"
-"15","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","GAC/CAU4","conventional 14C","charcoal","","SMU-1849",3135,33,"LSA","Wilton","","rock shelter",NA,"bousman2005cls; bousman2016qed","Developed Wilton"
-"16","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","TG-CAC/CAU6","conventional 14C","charcoal","","SMU-1851",4066,55,"LSA","Wilton","","rock shelter",NA,"bousman2005cls; bousman2016qed","Developed Wilton"
-"17","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","TG-CAC/CAU6","conventional 14C","charcoal","","SMU-1852",4286,149,"LSA","Wilton","","rock shelter",NA,"bousman2005cls; bousman2016qed","Developed Wilton"
-"18","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","TG/CAU6","conventional 14C","charcoal","","SMU-1901",4101,273,"LSA","Wilton","","rock shelter",NA,"bousman2005cls; bousman2016qed","Developed Wilton"
-"19","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","Level 6","conventional 14C","charcoal","","SR-142",3090,100,"LSA","Wilton","","rock shelter",NA,"bousman2005cls; bousman2016qed","Developed Wilton"
-"20","Blydefontein","BLY",-31.133,25.05,"South Africa","Northern Cape","S","Grassland Biome","Level 8","conventional 14C","charcoal","","SR-152",3650,120,"LSA","Wilton","","rock shelter",NA,"bousman2005cls; bousman2016qed","Developed Wilton"
-"21","Boomplaas","BMP",-33.383,22.183,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","UW-306",6400,75,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"22","Buffelskloof","BUF",-33.667,21.867,"South Africa","Western Cape","Y","Thicket Biome","BOL2","conventional 14C","","","Pta-1481",5120,65,"LSA","Wilton","","rock shelter",NA,"opperman1978ebs",""
-"23","Buffelskloof","BUF",-33.667,21.867,"South Africa","Western Cape","Y","Thicket Biome","CH3","conventional 14C","","","Pta-1841",7460,65,"LSA","Wilton","","rock shelter",NA,"opperman1978ebs",""
-"24","Buffelskloof","BUF",-33.667,21.867,"South Africa","Western Cape","Y","Thicket Biome","CH3","conventional 14C","","","UW-340",7300,120,"LSA","Wilton","","rock shelter",NA,"opperman1978ebs",""
-"25","Buffelskloof","BUF",-33.667,21.867,"South Africa","Western Cape","Y","Thicket Biome","BOL1","conventional 14C","","","UW-341",3840,80,"LSA","Wilton","","rock shelter",NA,"opperman1978ebs",""
-"26","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32677",3599,28,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"27","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32678",5428,33,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"28","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32679",5684,32,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"29","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32680",5263,33,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"30","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32681",5589,34,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"31","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32682",6048,33,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"32","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","Pta-1571 ",3900,60,"LSA","Wilton","","rock shelter",NA,"schweitzer1982bql",""
-"33","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","Pta-1772 ",6370,90,"LSA","Wilton","","rock shelter",NA,"schweitzer1982bql",""
-"34","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","Pta-1905 ",6540,55,"LSA","Wilton","","rock shelter",NA,"schweitzer1982bql",""
-"35","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","Pta-2347 ",7750,90,"LSA","Wilton","","rock shelter",NA,"schweitzer1982bql",""
-"36","Byneskranskop 1","BNK1",-34.583,19.467,"South Africa","Western Cape","Y","Fynbos Biome","","conventional 14C","","","UW-409 ",6100,140,"LSA","Wilton","","rock shelter",NA,"schweitzer1982bql",""
-"37","Cave James","CJ",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","RW1","conventional 14C","","","Wits-1744 ",6130,110,"LSA","Wilton","","rock shelter",NA,"wadley1989lls",""
-"38","Colwinton","CLW",-31.15,27.767,"South Africa","Kwazulu-Natal","S","Grassland Biome","","conventional 14C","charcoal","","Pta-2550",6270,40,"LSA","Wilton","","rock shelter",NA,"opperman1987lsd",""
-"39","Diamond Shelter","DMS",-28.492,28.948,"South Africa","Kwazulu-Natal","S","Grassland Biome","Layer 3","conventional 14C","charcoal","","Pta-3246",4900,60,"LSA","Wilton","","rock shelter",NA,"mazel1984dcs",""
-"40","Dune Field Midden","DFM",-32.301,18.348,"South Africa","Western Cape","W","Fynbos Biome","","AMS","eggshell","Struthio camelus","CAMS-113296",6135,40,"LSA","Wilton","","shell midden",NA,"orton2006rhl",""
-"41","Dune Field Midden","DFM",-32.301,18.348,"South Africa","Western Cape","W","Fynbos Biome","","AMS","marine shell","Donax serra","CAMS-113297",3325,35,"LSA","Wilton","","shell midden",NA,"orton2006rhl",""
-"42","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","JOFR","conventional 14C","plant remains","","GaK-4339",2950,115,"LSA","Wilton","","rock shelter",NA,"parkington1992mss","Estuarine grass bedding"
-"43","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","SOYI","conventional 14C","plant remains","","Pta-1816",3780,85,"LSA","Wilton","","rock shelter",NA,"parkington1992mss","Estuarine grass bedding"
-"44","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","","conventional 14C","","","Pta-5313",4370,60,"LSA","Wilton","","rock shelter",NA,"orton2006lsl",""
-"45","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","BARH","conventional 14C","","","Pta-5317",3940,60,"LSA","Wilton","","rock shelter",NA,"parkington1992mss",""
-"46","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","GSFB","conventional 14C","charcoal","","Pta-5594",3590,60,"LSA","Wilton","","rock shelter",NA,"parkington1992mss",""
-"47","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","","conventional 14C","","","Pta-5805",4160,60,"LSA","Wilton","","rock shelter",NA,"orton2006lsl",""
-"48","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","LEED","conventional 14C","plant remains","","Pta-687",3510,45,"LSA","Wilton","","rock shelter",NA,"parkington1992mss","Charcoal, bedding grass"
-"49","Elands Bay Cave","EBC",-32.317,18.318,"South Africa","Western Cape","W","Fynbos Biome","LBED","conventional 14C","plant remains","","Pta-841",3450,50,"LSA","Wilton","","rock shelter",NA,"parkington1992mss","Charcoal, bedding grass"
-"50","Elands Bay Open","EBO",-32.317,18.316,"South Africa","Western Cape","W","Fynbos Biome","SPECKLE","conventional 14C","","","Pta-6265",2920,60,"LSA","Wilton","","shell midden",-22.7,"jerardino1996csl",""
-"51","Gehle Shelter","GEH",-29.13,29.906,"South Africa","Kwazulu-Natal","S","Grassland Biome","3","conventional 14C","","","Pta-3245 ",4330,60,"LSA","Wilton","","rock shelter",NA,"mazel1984gsr",""
-"52","Gehle Shelter","GEH",-29.13,29.906,"South Africa","Kwazulu-Natal","S","Grassland Biome","2","conventional 14C","","","Pta-3585",5690,70,"LSA","Wilton","","rock shelter",NA,"mazel1984gsr",""
-"53","Good Hope Shelter","GHS",-29.656,29.427,"South Africa","Kwazulu-Natal","S","Grassland Biome","layer 3","conventional 14C","charcoal","","Pta-1480 ",7670,55,"LSA","Wilton","","rock shelter",NA,"cable1980esu"," (described as Oakhurst by Wadley 2000)"
-"54","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","1","AMS","charcoal","","UCI-209041",6015,15,"LSA","Wilton","","rock shelter",NA,"ames2020csf",""
-"55","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","1","AMS","charcoal","","UCI-209042",6040,15,"LSA","Wilton","","rock shelter",NA,"ames2020csf",""
-"56","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","5","AMS","charcoal","","UCI-209043",6085,15,"LSA","Wilton","","rock shelter",NA,"ames2020csf",""
-"57","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","8","AMS","charcoal","","UCI-209044",6100,15,"LSA","Wilton","","rock shelter",NA,"ames2020csf",""
-"58","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","15","AMS","charcoal","","UCI-209045",6355,25,"LSA","Wilton","","rock shelter",NA,"ames2020csf",""
-"59","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","16","AMS","charcoal","","Beta-532051",6470,30,"LSA","Wilton","","rock shelter",NA,"ames2020csf",""
-"60","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","18","AMS","charcoal","","Beta-532052",6360,30,"LSA","Wilton","","rock shelter",NA,"ames2020csf",""
-"61","Grassridge","GRA",-31.567,26.85,"South Africa","Eastern Cape","S","Grassland Biome","10","AMS","charcoal","","CAMS-170784",6200,35,"LSA","Wilton","","rock shelter",NA,"collins2017rho",""
-"62","Havens Cave","HVC",-33.667,24.35,"South Africa","Eastern Cape","Y","Thicket Biome","VOG","conventional 14C","","","Pta-3917 ",6190,80,"LSA","Wilton","","rock shelter",NA,"binneman1995scc",""
-"63","Havens Cave","HVC",-33.667,24.35,"South Africa","Eastern Cape","Y","Thicket Biome","SBA","conventional 14C","","","Pta-3919",6610,90,"LSA","Wilton","","rock shelter",NA,"binneman1995scc",""
-"64","Hoffman's Robberg Cave","HRC",-34.105951,23.388,"South Africa","Western Cape","S","Fynbos Biome","","conventional 14C","marine shell","Patella","UW-204",3190,110,"LSA","Wilton","","rock shelter",NA,"Fairhall1976uwd",""
-"65","Hoffman's Robberg Cave","HRC",-34.105951,23.388,"South Africa","Western Cape","S","Fynbos Biome","","conventional 14C","marine shell","Patella","UW-205",3770,100,"LSA","Wilton","","rock shelter",NA,"Fairhall1976uwd",""
-"66","Jagt Pan 1","JAG1",-30.4,21.4,"South Africa","Northern Cape","S","Nama-Karoo Biome","ExcavationSpits 1 and 2","conventional 14C","","","Pta-4516",3120,140,"LSA","Wilton","","open site",NA,"beaumont1989pcn",""
-"67","Jakkalsberg N","JKKN",-28.181,16.885,"South Africa","Northern Cape","W","Azonal Vegetation","X256","AMS","eggshell","Struthio camelus","GX-32754",4860,40,"LSA","Wilton","","open site",NA,"orton2010stb","succulent karoo"
-"68","Jakkalsberg N","JKKN",-28.181,16.885,"South Africa","Northern Cape","W","Azonal Vegetation","J259","AMS","marine shell","","GX-32755",4960,40,"LSA","Wilton","","open site",NA,"orton2010stb","succulent karoo"
-"69","Jakkalsberg N","JKKN",-28.181,16.885,"South Africa","Northern Cape","W","Azonal Vegetation","","conventional 14C","","","Pta-8496 ",4500,50,"LSA","Wilton","","open site",NA,"orton2010stb","succulent karoo"
-"70","Jubilee Shelter","JBS",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","RL2 D1","conventional 14C","charcoal","","Pta-3563 ",3730,60,"LSA","Wilton","","rock shelter",NA,"wadley1987lsh",""
-"71","Jubilee Shelter","JBS",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","RL C1/D1","conventional 14C","charcoal","","Wits-1214 ",3100,150,"LSA","Wilton","","rock shelter",NA,"wadley1987lsh",""
-"72","Jubilee Shelter","JBS",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","BM B1","conventional 14C","charcoal","","Wits-1382 ",4090,80,"LSA","Wilton","","rock shelter",NA,"wadley1987lsh",""
-"73","Jubilee Shelter","JBS",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","LYN 4 C2","conventional 14C","charcoal","","Wits-1449 ",3250,60,"LSA","Wilton","","rock shelter",NA,"wadley1987lsh",""
-"74","Jubilee Shelter","JBS",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","K11 D3","conventional 14C","charcoal","","Wits-1450 ",5250,129,"LSA","Wilton","","rock shelter",NA,"wadley1987lsh",""
-"75","Jubilee Shelter","JBS",-25.683,27.983,"South Africa","Gauteng","S","Savanna Biome","BM/R C2","conventional 14C","charcoal","","Wits-1462",6490,200,"LSA","Wilton","","rock shelter",NA,"wadley1987lsh",""
-"76","Kabeljous River Shelter","KJS",-33.967,24.917,"South Africa","Eastern Cape","Y","Fynbos Biome","","conventional 14C","","","Pta-4061",5750,80,"LSA","Wilton","","rock shelter",NA,"binneman2007ara",""
-"77","Kangkara Cave","KRA",-33.783,23.083,"South Africa","Western Cape","Y","Fynbos Biome","HBC","conventional 14C","bone","","Pta-2286 ",5355,55,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"78","Kangkara Cave","KRA",-33.783,23.083,"South Africa","Western Cape","Y","Fynbos Biome","GBL","conventional 14C","bone","","Pta-2287 ",6600,75,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"79","Leliehoek","LIH",-29.117,27.25,"South Africa","Free State","S","Grassland Biome","Ln","conventional 14C","eggshell","Struthio camelus","Wits-2009 ",4860,100,"LSA","Wilton","","rock shelter",NA,"esterhuysen1994lsh",""
-"80","Leliehoek","LIH",-29.117,27.25,"South Africa","Free State","S","Grassland Biome","Sm","conventional 14C","eggshell","Struthio camelus","Wits-2010",5210,100,"LSA","Wilton","","rock shelter",NA,"esterhuysen1994lsh",""
-"81","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","7","conventional 14C","charcoal","","Pta-5898 ",4790,60,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"82","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","4","conventional 14C","charcoal","","Pta-5900 ",4300,20,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"83","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","2","conventional 14C","charcoal","","Pta-6244 ",3560,60,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"84","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","3","conventional 14C","charcoal","","Pta-6245 ",4080,25,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"85","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","4","conventional 14C","charcoal","","Pta-6251 ",4640,70,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"86","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","8","conventional 14C","charcoal","","Pta-6253 ",5680,70,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"87","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","5","conventional 14C","charcoal","","Pta-6255 ",4960,70,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"88","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","6","conventional 14C","charcoal","","Pta-6256 ",4140,60,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"89","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","11","conventional 14C","charcoal","","Pta-6258 ",6300,80,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"90","Maqonqo Shelter","MQQ",-28.344,30.424,"South Africa","Kwazulu-Natal","S","Grassland Biome","14","conventional 14C","charcoal","","Pta-6260 ",7460,140,"LSA","Wilton","","rock shelter",NA,"mazel1996mse",""
-"91","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","Layer C","conventional 14C","marine shell","","GrN-5887",7050,45,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"92","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","Layer B","conventional 14C","marine shell","","GrN-5888",3555,35,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"93","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","Layer C","conventional 14C","charcoal","","L-336E",7750,300,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"94","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","Layer C","conventional 14C","","","L-336F",5400,250,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"95","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","AMS","","","OxA-V-2064-52 ",7295,32,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"96","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6691 ",7010,80,"LSA","Wilton","","rock shelter",NA,"dockel1998imr","Forest"
-"97","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","charcoal","","Pta-6811 ",6720,25,"LSA","Wilton","","rock shelter",NA,"dockel1998imr","Forest"
-"98","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","marine shell","","Pta-6817 ",7075,25,"LSA","Wilton","","rock shelter",NA,"dockel1998imr","Forest"
-"99","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","EE","conventional 14C","charcoal","","Pta-6856 ",4740,50,"LSA","Wilton","","rock shelter",NA,"dockel1998imr","Forest"
-"100","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","EE","conventional 14C","marine shell","","Pta-6877 ",4615,20,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"101","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","marine shell","","Pta-6917 ",5720,70,"LSA","Wilton","","rock shelter",NA,"dockel1998imr","Forest"
-"102","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","EE","conventional 14C","marine shell","","Pta-6920",4665,20,"LSA","Wilton","","rock shelter",NA,"dockel1998imr","Forest"
-"103","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","","","Pta-6975 ",5390,70,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"104","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","","","Pta-6976 ",5370,70,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"105","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","","","Pta-6988",7420,80,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"106","Matjies River","MTR",-34.017,23.417,"South Africa","Western Cape","Y","Azonal Vegetation","","conventional 14C","","","UCLA-1746-C-1 ",5310,60,"LSA","Wilton","","rock shelter",NA,"sealy2006rdm","Forest"
-"107","Meerlust 1","MRL1",-27.65,22.433,"South Africa","Northern Cape","S","Savanna Biome","ExcavationSpits 12-14","conventional 14C","eggshell","Struthio camelus","Pta-4511",2390,50,"LSA","Wilton","","open site",NA,"beaumont1989pcn",""
-"108","Melkhoutboom","MKB",-33.317,25.283,"South Africa","Eastern Cape","Y","Thicket Biome","wedge unit","conventional 14C","","","Pta-668 ",6980,65,"LSA","Wilton","","rock shelter",NA,"deacon1976whg",""
-"109","Melkhoutboom","MKB",-33.317,25.283,"South Africa","Eastern Cape","Y","Thicket Biome","main bedding unit","conventional 14C","","","Pta-680 ",5900,90,"LSA","Wilton","","rock shelter",NA,"deacon1976whg",""
-"110","Melkhoutboom","MKB",-33.317,25.283,"South Africa","Eastern Cape","Y","Thicket Biome","wilton base marker unit","conventional 14C","","","UW-234",7300,80,"LSA","Wilton","","rock shelter",NA,"deacon1976whg",""
-"111","Mgede Shelter","MGD",-28.17,29.687,"South Africa","Kwazulu-Natal","S","Grassland Biome","3","conventional 14C","charcoal","","Pta-3505 ",4390,70,"LSA","Wilton","","rock shelter",NA,"mazel1986msh",""
-"112","Mgede Shelter","MGD",-28.17,29.687,"South Africa","Kwazulu-Natal","S","Grassland Biome","4","conventional 14C","charcoal","","Pta-3508",6550,70,"LSA","Wilton","","rock shelter",NA,"mazel1986msh",""
-"113","Mzinyashana Shelter","MZY",-28.317,30.467,"South Africa","Kwazulu-Natal","S","Grassland Biome","Layer 11","conventional 14C","","","Pta-6535",4170,130,"LSA","Wilton","","rock shelter",NA,"mazel1997mse",""
-"114","Mzinyashana Shelter","MZY",-28.317,30.467,"South Africa","Kwazulu-Natal","S","Grassland Biome","Layer 10","conventional 14C","","","Pta-6540 ",4010,60,"LSA","Wilton","","rock shelter",NA,"mazel1997mse",""
-"115","Namtib","NTB",-26.033,16.25,"Namibia","Karas Region","W","Desert Biome","","conventional 14C","charcoal","","Pta-1185",7840,90,"LSA","Wilton","","rock shelter",NA,"vogel1981prd",""
-"116","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32448",4968,31,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"117","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","","AMS","bone","","OxA-32449",4860,45,"LSA","Wilton","","rock shelter",NA,"loftus2016rdb",""
-"118","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","Unit148","conventional 14C","charcoal","","Pta-2909 ",5890,70,"LSA","Wilton","","rock shelter",NA,"inskeep1987nps",""
-"119","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","Unit129","conventional 14C","charcoal","","Pta-2915 ",5860,70,"LSA","Wilton","","rock shelter",NA,"inskeep1987nps",""
-"120","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","Unit105","conventional 14C","charcoal","","Pta-2933 ",5320,220,"LSA","Wilton","","rock shelter",NA,"inskeep1987nps",""
-"121","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","BSC","conventional 14C","charcoal","","UW-176 ",6020,160,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"122","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","BSC","conventional 14C","sediments","","UW-186 ",6050,80,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"123","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","BSC","conventional 14C","sediments","","UW-187 ",5825,150,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"124","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","BSC","conventional 14C","charcoal","","UW-216 ",5830,115,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"125","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","Ivan","conventional 14C","Marine shell","","UW-217 ",4860,65,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"126","Nelson Bay Cave","NBC",-34.101,23.378,"South Africa","Western Cape","Y","Fynbos Biome","Rice A","conventional 14C","charcoal","","UW-222",6070,125,"LSA","Wilton","","rock shelter",NA,"deacon1984lss",""
-"127","Nkupe Shelter","NKP",-28.147,29.937,"South Africa","Kwazulu-Natal","S","Grassland Biome","5; WA 2B R11","conventional 14C","charcoal","","Pta-3275 ",3950,70,"LSA","Wilton","","rock shelter",NA,"mazel1988nsr",""
-"128","Nkupe Shelter","NKP",-28.147,29.937,"South Africa","Kwazulu-Natal","S","Grassland Biome","7; WA 3B, R10","conventional 14C","charcoal","","Pta-3276 ",4590,70,"LSA","Wilton","","rock shelter",NA,"mazel1988nsr",""
-"129","Nkupe Shelter","NKP",-28.147,29.937,"South Africa","Kwazulu-Natal","S","Grassland Biome","10; GA 2B, R10","conventional 14C","charcoal","","Pta-3455",6650,80,"LSA","Wilton","","rock shelter",NA,"mazel1988nsr",""
-"130","Nkupe Shelter","NKP",-28.147,29.937,"South Africa","Kwazulu-Natal","S","Grassland Biome","9; GA 2B, R10","conventional 14C","charcoal","","Pta-3460 ",5760,70,"LSA","Wilton","","rock shelter",NA,"mazel1988nsr",""
-"131","Numas Schlucht Cave (Lower Numas Cave)","NUM",-21.117,14.417,"Namibia","Erongo District","W","Desert Biome","60cm","conventional 14C","charcoal","","Pta-1295",4180,60,"LSA","Wilton","","rock shelter",NA,"vogel1981prd",""
-"132","Numas Schlucht Cave (Lower Numas Cave)","NUM",-21.117,14.417,"Namibia","Erongo District","W","Desert Biome","60-70cm","conventional 14C","eggshell","Struthio camelus","Pta-1620",4840,50,"LSA","Wilton","","rock shelter",NA,"vogel1981prd",""
-"133","Numas Schlucht Cave (Lower Numas Cave)","NUM",-21.117,14.417,"Namibia","Erongo District","W","Desert Biome","50cm","conventional 14C","charcoal","","Pta-1623",3950,60,"LSA","Wilton","","rock shelter",NA,"vogel1981prd",""
-"134","Numas Schlucht Cave (Lower Numas Cave)","NUM",-21.117,14.417,"Namibia","Erongo District","W","Desert Biome","7cm","conventional 14C","charcoal","","Pta-178",2890,65,"LSA","Wilton","","rock shelter",NA,"vogel1971prd",""
-"135","Numas Schlucht Cave (Lower Numas Cave)","NUM",-21.117,14.417,"Namibia","Erongo District","W","Desert Biome","15cm","conventional 14C","charcoal","","Pta-179",2950,65,"LSA","Wilton","","rock shelter",NA,"vogel1971prd",""
-"136","Oakhurst","OAK",-33.933,22.617,"South Africa","Western Cape","Y","Forests","","conventional 14C","charcoal","","Pta-520 ",3450,55,"LSA","Wilton","","rock shelter",NA,"patrick1989aas",""
-"137","Pancho's Kitchen Midden","PKM",-32.339,18.333,"South Africa","Western Cape","W","Fynbos Biome","7SH. PENCO II","conventional 14C","","","Pta-5743",3570,60,"LSA","Wilton","","shell midden",-24.1,"jerardino1996csl",""
-"138","Pancho's Kitchen Midden","PKM",-32.339,18.333,"South Africa","Western Cape","W","Fynbos Biome","6 PENCO","conventional 14C","","","Pta-5923",3060,60,"LSA","Wilton","","shell midden",-24.2,"jerardino1996csl",""
-"139","Pancho's Kitchen Midden","PKM",-32.339,18.333,"South Africa","Western Cape","W","Fynbos Biome","4SH. GRINGO","conventional 14C","","","Pta-5990",2940,20,"LSA","Wilton","","shell midden",-23.7,"jerardino1996csl",""
-"140","Rooikrans","RIK",-27.033,27.367,"South Africa","Free State","S","Grassland Biome","4","conventional 14C","bone","","Wits-2003",6150,100,"LSA","Wilton","","rock shelter",NA,"thorp1996pre",""
-"141","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","Pt","conventional 14C","charcoal","","GrN-5299",6850,45,"LSA","Wilton","","rock shelter",NA,"vogel1970grd",""
-"142","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","Pt","conventional 14C","charcoal","","Pta-5934 ",5970,70,"LSA","Wilton","","rock shelter",NA,"wadley2000wcc",""
-"143","Rose Cottage Cave","RCC",-29.25,27.5,"South Africa","Free State","S","Grassland Biome","Pt","conventional 14C","charcoal","","Pta-6783",7630,80,"LSA","Wilton","","rock shelter",NA,"wadley2000wcc",""
-"144","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","GWA","conventional 14C","","","Pta-6154",5950,70,"LSA","Wilton","","rock shelter",NA,"mitchell1996qlh",""
-"145","Sehonghong","SHH",-29.75,28.75,"Lesotho","Thaba-Tseka","S","Grassland Biome","","conventional 14C","","","Q-3174 ",6870,60,"LSA","Wilton","","rock shelter",NA,"mitchell1996qlh",""
-"146","Shongweni South","SHOS",-29.85,30.717,"South Africa","Kwazulu-Natal","S","Savanna Biome","Spit D, Level 6","conventional 14C","charcoal","","Pta-823",3870,60,"LSA","Wilton","","rock shelter",NA,"vogel1986prd","Stratigraphy disturbed because contains cultigens"
-"147","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum IV","conventional 14C","bone","","TX-5621",5710,280,"LSA","Wilton","","rock shelter",NA,"barham1989rdn",""
-"148","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum IV","conventional 14C","eggshell","Struthio camelus","TX-5623",6680,160,"LSA","Wilton","","rock shelter",NA,"barham1989rdn",""
-"149","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum IV","conventional 14C","snail","","TX-5624",6540,100,"LSA","Wilton","","rock shelter",NA,"barham1989rdn",""
-"150","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum IV","conventional 14C","eggshell","Struthio camelus","TX-5625",6670,90,"LSA","Wilton","","rock shelter",NA,"barham1989rdn",""
-"151","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum IV","conventional 14C","snail","","TX-5626",6860,110,"LSA","Wilton","","rock shelter",NA,"barham1989rdn",""
-"152","Siphiso","SIP",-26.3,31.967,"Swaziland","Lubombo Region","S","Savanna Biome","Stratum V","conventional 14C","snail","","TX-5627",7300,100,"LSA","Wilton","","rock shelter",NA,"barham1989rdn",""
-"153","Spring Cave","SGC",-32.322,18.336,"South Africa","Western Cape","W","Fynbos Biome","6 BM","conventional 14C","charcoal","","Pta-4027",3510,60,"LSA","Wilton","","rock shelter",-19.3,"jerardino1996csl",""
-"154","Spring Cave","SGC",-32.322,18.336,"South Africa","Western Cape","W","Fynbos Biome","5 UDF","conventional 14C","charcoal","","Pta-4033",2970,60,"LSA","Wilton","","rock shelter",-21.5,"jerardino1996csl",""
-"155","Springbokoog 1","SBO1",-30.217,21.533,"South Africa","Northern Cape","S","Nama-Karoo Biome","ExcavationSpits 1-4","conventional 14C","eggshell","Struthio camelus","Pta-4091",4630,60,"LSA","Wilton","","",NA,"beaumont1989pcn",""
-"156","Springbokoog 13","SBO13",-30.217,21.533,"South Africa","Northern Cape","S","Nama-Karoo Biome","ExcavationSpit 1","conventional 14C","eggshell","Struthio camelus","Pta-4653",2520,60,"LSA","Wilton","","",NA,"beaumont1989pcn",""
-"157","Springbokoog 13","SBO13",-30.217,21.533,"South Africa","Northern Cape","S","Nama-Karoo Biome","ExcavationSpit 1","conventional 14C","eggshell","Struthio camelus","Pta-4664",2710,50,"LSA","Wilton","","",NA,"beaumont1989pcn",""
-"158","Springbokoog 20","SBO20",-30.217,21.533,"South Africa","Northern Cape","S","Nama-Karoo Biome","Surface collection","conventional 14C","eggshell","Struthio camelus","Pta-4785",4440,60,"LSA","Wilton","","",NA,"beaumont1989pcn",""
-"159","Springbokoog 5","SBO5",-30.217,21.533,"South Africa","Northern Cape","S","Nama-Karoo Biome","ExcavatedSurface","conventional 14C","eggshell","Struthio camelus","Pta-4205",2630,50,"LSA","Wilton","","",NA,"beaumont1989pcn",""
-"160","Steenbokfontein","STB",-32.162,18.333,"South Africa","Western Cape","W","Fynbos Biome","4b (t)SHAMAN","conventional 14C","charcoal","","Pta-6420",3990,60,"LSA","Wilton","","rock shelter",-20.9,"jerardino1996csl",""
-"161","Steenbokfontein","STB",-32.162,18.333,"South Africa","Western Cape","W","Fynbos Biome","4a (t) GRFU","conventional 14C","marine shell","Choromytilus meridionalis","Pta-6794",3510,50,"LSA","Wilton","","rock shelter",-1.9,"jerardino1996csl",""
-"162","Steenbokfontein","STB",-32.162,18.333,"South Africa","Western Cape","W","Fynbos Biome","4a (b) LFSO","conventional 14C","marine shell","Choromytilus meridionalis","Pta-6805",3640,60,"LSA","Wilton","","rock shelter",-1,"jerardino1996csl",""
-"163","Steenbokfontein","STB",-32.162,18.333,"South Africa","Western Cape","W","Fynbos Biome","5","conventional 14C","charcoal","","Pta-6808",6070,80,"LSA","Wilton","","rock shelter",-21,"jerardino2014dcs",""
-"164","Steenbokfontein","STB",-32.162,18.333,"South Africa","Western Cape","W","Fynbos Biome","4a","conventional 14C","marine shell","Choromytilus meridionalis","Pta-7020",3635,30,"LSA","Wilton","","rock shelter",NA,"jerardino2014dcs",""
-"165","Steenbokfontein","STB",-32.162,18.333,"South Africa","Western Cape","W","Fynbos Biome","5","conventional 14C","charcoal","","Pta-7323",4620,70,"LSA","Wilton","","rock shelter",NA,"jerardino2014dcs",""
-"166","Tloutle","TLT",-29.467,27.767,"Lesotho","Maseru District","S","Grassland Biome","CCL","conventional 14C","charcoal","","Pta-5158 ",6140,100,"LSA","Wilton","","rock shelter",NA,"mitchell1993ats",""
-"167","Tloutle","TLT",-29.467,27.767,"Lesotho","Maseru District","S","Grassland Biome","CSL-UP","conventional 14C","charcoal","","Pta-5162 ",6910,80,"LSA","Wilton","","rock shelter",NA,"mitchell1993ats",""
-"168","Tloutle","TLT",-29.467,27.767,"Lesotho","Maseru District","S","Grassland Biome","CSL-UP","conventional 14C","charcoal","","Pta-5171",7230,80,"LSA","Wilton","","rock shelter",NA,"mitchell1993ats",""
-"169","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","14 HOME","conventional 14C","marine shell","","Pta-3596",7700,70,"LSA","Wilton","","rock shelter",1.2,"jerardino1996csl",""
-"170","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","6SM2","conventional 14C","charcoal","","Pta-3604",3520,60,"LSA","Wilton","","rock shelter",-21.1,"jerardino1996csl",""
-"171","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","13a DELTA","conventional 14C","charcoal","","Pta-3605",4330,50,"LSA","Wilton","","rock shelter",-23.9,"jerardino1996csl",""
-"172","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","8 FU3","conventional 14C","charcoal","","Pta-3608a",4020,60,"LSA","Wilton","","rock shelter",-23.5,"jerardino1996csl",""
-"173","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","10 MELANIE","conventional 14C","charcoal","","Pta-3608b",4190,60,"LSA","Wilton","","rock shelter",-23.3,"jerardino1996csl",""
-"174","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","13b ECHO","conventional 14C","marine shell","","Pta-5479",6910,80,"LSA","Wilton","","rock shelter",-0.5,"jerardino1996csl",""
-"175","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","5a UM2","conventional 14C","marine shell","","Pta-5498",3160,60,"LSA","Wilton","","rock shelter",0.2,"jerardino1996csl",""
-"176","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","5c REBEL","conventional 14C","marine shell","","Pta-5662",3410,60,"LSA","Wilton","","rock shelter",0,"jerardino1996csl",""
-"177","Tortoise Cave","TTC",-32.341,18.399,"South Africa","Western Cape","W","Fynbos Biome","14 GANDALF","conventional 14C","marine shell","","Pta-5981",5530,30,"LSA","Wilton","","rock shelter",-1.2,"jerardino1996csl","Estuarine Shell"
-"178","Tshisiku Shelter","TSK",-22.233,29.148,"South Africa","Limpopo","S","Savanna Biome","","conventional 14C","","","Pta-8652 ",5440,60,"LSA","Wilton","","rock shelter",NA,"vandoornum2007tss",""
-"179","Tshisiku Shelter","TSK",-22.233,29.148,"South Africa","Limpopo","S","Savanna Biome","","conventional 14C","","","Pta-8709",6750,60,"LSA","Wilton","","rock shelter",NA,"vandoornum2007tss",""
-"180","Uniondale","UND",-33.15,26.383,"South Africa","Eastern Cape","S","Thicket Biome","P","conventional 14C","","","Pta-4322",4520,60,"LSA","Wilton","","rock shelter",NA,"lesliebrooker1987asu; sadr2006tte",""
-"181","Uniondale","UND",-33.15,26.383,"South Africa","Eastern Cape","S","Thicket Biome","V","conventional 14C","","","Pta-4334",6300,200,"LSA","Wilton","","rock shelter",NA,"lesliebrooker1987asu; sadr2006tte",""
-"182","Wilton Large Rock Shelter","WLR",-33.325,26.142,"South Africa","Eastern Cape","Y","Fynbos Biome","Layer 3F","conventional 14C","charcoal","","I-2565",4860,115,"LSA","Wilton","","rock shelter",NA,"deacon1972waa",""
-"183","Zoovoorbij","ZVB",-28.65,20.967,"South Africa","Northern Cape","S","Nama-Karoo Biome","Level 3","conventional 14C","charcoal","","Pta-2870",2800,60,"LSA","Wilton","","rock shelter",-25,"beaumont1995bea","Springbokoog"
-"184","Zoovoorbij","ZVB",-28.65,20.967,"South Africa","Northern Cape","S","Nama-Karoo Biome","Level 2","conventional 14C","charcoal","","Pta-2871",2860,45,"LSA","Wilton","","rock shelter",-25.3,"beaumont1995bea","Springbokoog"
-"185","Zoovoorbij","ZVB",-28.65,20.967,"South Africa","Northern Cape","S","Nama-Karoo Biome","Level 7","conventional 14C","charcoal","","Pta-2888",2860,45,"LSA","Wilton","","rock shelter",-24.4,"beaumont1995bea","Springbokoog. Smith 1995 reports date as 3080±60 BP"
-"186","Zoovoorbij","ZVB",-28.65,20.967,"South Africa","Northern Cape","S","Nama-Karoo Biome","Level 9a","conventional 14C","charcoal","","Pta-2889",4140,75,"LSA","Wilton","","rock shelter",-24.4,"beaumont1995bea","Springbokoog. Smith 1995 reports date as 4140±70 BP"
-"187","Zoovoorbij","ZVB",-28.65,20.967,"South Africa","Northern Cape","S","Nama-Karoo Biome","Level 8","conventional 14C","charcoal","","Pta-2893",3440,60,"LSA","Wilton","","rock shelter",-23.8,"beaumont1995bea","Springbokoog"
+"","site","Lab.ID","c14age","c14std","culture","lat","lon","Material.dated","Samp"
+"1","Tshisiku Shelter","Pta-8709",6750,60,"Wilton",-22.233,29.148,"",1
+"2","Blombosfontein 2","Pta-6181",6740,70,"Wilton",-34.4,21.217,"marine shell",2
+"3","Matjies River","Pta-6811 ",6720,25,"Wilton",-34.017,23.417,"charcoal",3
+"4","Siphiso","TX-5623",6680,160,"Wilton",-26.3,31.967,"eggshell",1
+"5","Siphiso","TX-5625",6670,90,"Wilton",-26.3,31.967,"eggshell",2
+"6","Nkupe Shelter","Pta-3455",6650,80,"Wilton",-28.147,29.937,"charcoal",3
+"7","Havens Cave","Pta-3919",6610,90,"Wilton",-33.667,24.35,"",1
+"8","Kangkara Cave","Pta-2287 ",6600,75,"Wilton",-33.783,23.083,"bone",2
+"9","Mgede Shelter","Pta-3508",6550,70,"Wilton",-28.17,29.687,"charcoal",3
+"10","Byneskranskop 1","Pta-1905 ",6540,55,"Wilton",-34.583,19.467,"",1
+"11","Siphiso","TX-5624",6540,100,"Wilton",-26.3,31.967,"snail",2
+"12","Jubilee Shelter","Wits-1462",6490,200,"Wilton",-25.683,27.983,"charcoal",3
+"13","Apollo 11 Cave","Pta-1019",6480,80,"Wilton",-27.75,17.1,"charcoal",1
+"14","Grassridge","Beta-532051",6470,30,"Wilton",-31.567,26.85,"charcoal",2
+"15","Boomplaas","UW-306",6400,75,"Wilton",-33.383,22.183,"",3
+"16","Byneskranskop 1","Pta-1772 ",6370,90,"Wilton",-34.583,19.467,"",1
+"17","Grassridge","Beta-532052",6360,30,"Wilton",-31.567,26.85,"charcoal",2
+"18","Grassridge","UCI-209045",6355,25,"Wilton",-31.567,26.85,"charcoal",3
+"19","Maqonqo Shelter","Pta-6258 ",6300,80,"Wilton",-28.344,30.424,"charcoal",1
+"20","Uniondale","Pta-4334",6300,200,"Wilton",-33.15,26.383,"",2
+"21","Colwinton","Pta-2550",6270,40,"Wilton",-31.15,27.767,"charcoal",3
+"22","Apollo 11 Cave","KN-I-609",6200,65,"Wilton",-27.75,17.1,"charcoal",1
+"23","Grassridge","CAMS-170784",6200,35,"Wilton",-31.567,26.85,"charcoal",2
+"24","Havens Cave","Pta-3917 ",6190,80,"Wilton",-33.667,24.35,"",3
+"25","Rooikrans","Wits-2003",6150,100,"Wilton",-27.033,27.367,"bone",1
+"26","Tloutle","Pta-5158 ",6140,100,"Wilton",-29.467,27.767,"charcoal",2
+"27","Dune Field Midden","CAMS-113296",6135,40,"Wilton",-32.301,18.348,"eggshell",3
+"28","Cave James","Wits-1744 ",6130,110,"Wilton",-25.683,27.983,"",1
+"29","Byneskranskop 1","UW-409 ",6100,140,"Wilton",-34.583,19.467,"",2
+"30","Grassridge","UCI-209044",6100,15,"Wilton",-31.567,26.85,"charcoal",3
+"31","Grassridge","UCI-209043",6085,15,"Wilton",-31.567,26.85,"charcoal",1
+"32","Nelson Bay Cave","UW-222",6070,125,"Wilton",-34.101,23.378,"charcoal",2
+"33","Steenbokfontein","Pta-6808",6070,80,"Wilton",-32.162,18.333,"charcoal",3
+"34","Nelson Bay Cave","UW-186 ",6050,80,"Wilton",-34.101,23.378,"sediments",1
+"35","Byneskranskop 1","OxA-32682",6048,33,"Wilton",-34.583,19.467,"bone",2
+"36","Grassridge","UCI-209042",6040,15,"Wilton",-31.567,26.85,"charcoal",3
+"37","Nelson Bay Cave","UW-176 ",6020,160,"Wilton",-34.101,23.378,"charcoal",1
+"38","Grassridge","UCI-209041",6015,15,"Wilton",-31.567,26.85,"charcoal",2
+"39","Rose Cottage Cave","Pta-5934 ",5970,70,"Wilton",-29.25,27.5,"charcoal",3
+"40","Blombosfontein 3","Pta-6180",5960,70,"Wilton",-34.4,21.217,"marine shell",1
+"41","Sehonghong","Pta-6154",5950,70,"Wilton",-29.75,28.75,"",2
+"42","Melkhoutboom","Pta-680 ",5900,90,"Wilton",-33.317,25.283,"",3
+"43","Nelson Bay Cave","Pta-2909 ",5890,70,"Wilton",-34.101,23.378,"charcoal",1
+"44","Nelson Bay Cave","Pta-2915 ",5860,70,"Wilton",-34.101,23.378,"charcoal",2
+"45","Nelson Bay Cave","UW-216 ",5830,115,"Wilton",-34.101,23.378,"charcoal",3
+"46","Nelson Bay Cave","UW-187 ",5825,150,"Wilton",-34.101,23.378,"sediments",1
+"47","Nkupe Shelter","Pta-3460 ",5760,70,"Wilton",-28.147,29.937,"charcoal",2
+"48","Kabeljous River Shelter","Pta-4061",5750,80,"Wilton",-33.967,24.917,"",3
+"49","Matjies River","Pta-6917 ",5720,70,"Wilton",-34.017,23.417,"marine shell",1
+"50","Siphiso","TX-5621",5710,280,"Wilton",-26.3,31.967,"bone",2
+"51","Gehle Shelter","Pta-3585",5690,70,"Wilton",-29.13,29.906,"",3
+"52","Byneskranskop 1","OxA-32679",5684,32,"Wilton",-34.583,19.467,"bone",1
+"53","Blombosfontein 4","Pta-6176",5680,70,"Wilton",-34.4,21.217,"marine shell",2
+"54","Maqonqo Shelter","Pta-6253 ",5680,70,"Wilton",-28.344,30.424,"charcoal",3
+"55","Byneskranskop 1","OxA-32681",5589,34,"Wilton",-34.583,19.467,"bone",1
+"56","Tortoise Cave","Pta-5981",5530,30,"Wilton",-32.341,18.399,"marine shell",2
+"57","Blombosfontein 5","Pta-6182 ",5520,70,"Wilton",-34.4,21.217,"marine shell",3
+"58","Tshisiku Shelter","Pta-8652 ",5440,60,"Wilton",-22.233,29.148,"",1
+"59","Byneskranskop 1","OxA-32678",5428,33,"Wilton",-34.583,19.467,"bone",2
+"60","Matjies River","L-336F",5400,250,"Wilton",-34.017,23.417,"",3
+"61","Matjies River","Pta-6975 ",5390,70,"Wilton",-34.017,23.417,"",1
+"62","Matjies River","Pta-6976 ",5370,70,"Wilton",-34.017,23.417,"",2
+"63","Kangkara Cave","Pta-2286 ",5355,55,"Wilton",-33.783,23.083,"bone",3
+"64","Nelson Bay Cave","Pta-2933 ",5320,220,"Wilton",-34.101,23.378,"charcoal",1
+"65","Matjies River","UCLA-1746-C-1 ",5310,60,"Wilton",-34.017,23.417,"",2
+"66","Byneskranskop 1","OxA-32680",5263,33,"Wilton",-34.583,19.467,"bone",3
+"67","Jubilee Shelter","Wits-1450 ",5250,129,"Wilton",-25.683,27.983,"charcoal",1
+"68","Leliehoek","Wits-2010",5210,100,"Wilton",-29.117,27.25,"eggshell",2
+"69","Buffelskloof","Pta-1481",5120,65,"Wilton",-33.667,21.867,"",3
+"70","Nelson Bay Cave","OxA-32448",4968,31,"Wilton",-34.101,23.378,"bone",1
+"71","Jakkalsberg N","GX-32755",4960,40,"Wilton",-28.181,16.885,"marine shell",2
+"72","Maqonqo Shelter","Pta-6255 ",4960,70,"Wilton",-28.344,30.424,"charcoal",3
+"73","Diamond Shelter","Pta-3246",4900,60,"Wilton",-28.492,28.948,"charcoal",1
+"74","Jakkalsberg N","GX-32754",4860,40,"Wilton",-28.181,16.885,"eggshell",2
+"75","Leliehoek","Wits-2009 ",4860,100,"Wilton",-29.117,27.25,"eggshell",3
+"76","Nelson Bay Cave","OxA-32449",4860,45,"Wilton",-34.101,23.378,"bone",1
+"77","Nelson Bay Cave","UW-217 ",4860,65,"Wilton",-34.101,23.378,"Marine shell",2
+"78","Wilton Large Rock Shelter","I-2565",4860,115,"Wilton",-33.325,26.142,"charcoal",3
+"79","Numas Schlucht Cave (Lower Numas Cave)","Pta-1620",4840,50,"Wilton",-21.117,14.417,"eggshell",1
+"80","Maqonqo Shelter","Pta-5898 ",4790,60,"Wilton",-28.344,30.424,"charcoal",2
+"81","Matjies River","Pta-6856 ",4740,50,"Wilton",-34.017,23.417,"charcoal",3
+"82","Matjies River","Pta-6920",4665,20,"Wilton",-34.017,23.417,"marine shell",1
+"83","Maqonqo Shelter","Pta-6251 ",4640,70,"Wilton",-28.344,30.424,"charcoal",2
+"84","Springbokoog 1","Pta-4091",4630,60,"Wilton",-30.217,21.533,"eggshell",3
+"85","Steenbokfontein","Pta-7323",4620,70,"Wilton",-32.162,18.333,"charcoal",1
+"86","Matjies River","Pta-6877 ",4615,20,"Wilton",-34.017,23.417,"marine shell",2
+"87","Nkupe Shelter","Pta-3276 ",4590,70,"Wilton",-28.147,29.937,"charcoal",3
+"88","Uniondale","Pta-4322",4520,60,"Wilton",-33.15,26.383,"",1
+"89","Jakkalsberg N","Pta-8496 ",4500,50,"Wilton",-28.181,16.885,"",2
+"90","Springbokoog 20","Pta-4785",4440,60,"Wilton",-30.217,21.533,"eggshell",3
+"91","Mgede Shelter","Pta-3505 ",4390,70,"Wilton",-28.17,29.687,"charcoal",1
+"92","Elands Bay Cave","Pta-5313",4370,60,"Wilton",-32.317,18.318,"",2
+"93","Gehle Shelter","Pta-3245 ",4330,60,"Wilton",-29.13,29.906,"",3
+"94","Tortoise Cave","Pta-3605",4330,50,"Wilton",-32.341,18.399,"charcoal",1
+"95","Maqonqo Shelter","Pta-5900 ",4300,20,"Wilton",-28.344,30.424,"charcoal",2
+"96","Blydefontein","SMU-1852",4286,149,"Wilton",-31.133,25.05,"charcoal",3
+"97","Amadzimba Cave","BM-57",4200,150,"Wilton",-20.75,28.75,"other",1
+"98","Tortoise Cave","Pta-3608b",4190,60,"Wilton",-32.341,18.399,"charcoal",2
+"99","Numas Schlucht Cave (Lower Numas Cave)","Pta-1295",4180,60,"Wilton",-21.117,14.417,"charcoal",3
+"100","Mzinyashana Shelter","Pta-6535",4170,130,"Wilton",-28.317,30.467,"",1
+"101","Elands Bay Cave","Pta-5805",4160,60,"Wilton",-32.317,18.318,"",2
+"102","Maqonqo Shelter","Pta-6256 ",4140,60,"Wilton",-28.344,30.424,"charcoal",3
+"103","Zoovoorbij","Pta-2889",4140,75,"Wilton",-28.65,20.967,"charcoal",1
+"104","Blydefontein","SMU-1901",4101,273,"Wilton",-31.133,25.05,"charcoal",2
+"105","Jubilee Shelter","Wits-1382 ",4090,80,"Wilton",-25.683,27.983,"charcoal",3
+"106","Maqonqo Shelter","Pta-6245 ",4080,25,"Wilton",-28.344,30.424,"charcoal",1
+"107","Blombosfontein 6","Pta-6178",4070,60,"Wilton",-34.4,21.217,"marine shell",2
+"108","Blydefontein","SMU-1851",4066,55,"Wilton",-31.133,25.05,"charcoal",3
+"109","Tortoise Cave","Pta-3608a",4020,60,"Wilton",-32.341,18.399,"charcoal",1
+"110","Mzinyashana Shelter","Pta-6540 ",4010,60,"Wilton",-28.317,30.467,"",2
+"111","Steenbokfontein","Pta-6420",3990,60,"Wilton",-32.162,18.333,"charcoal",3
+"112","Nkupe Shelter","Pta-3275 ",3950,70,"Wilton",-28.147,29.937,"charcoal",1
+"113","Numas Schlucht Cave (Lower Numas Cave)","Pta-1623",3950,60,"Wilton",-21.117,14.417,"charcoal",2
+"114","Elands Bay Cave","Pta-5317",3940,60,"Wilton",-32.317,18.318,"",3
+"115","Byneskranskop 1","Pta-1571 ",3900,60,"Wilton",-34.583,19.467,"",1
+"116","Shongweni South","Pta-823",3870,60,"Wilton",-29.85,30.717,"charcoal",2
+"117","Buffelskloof","UW-341",3840,80,"Wilton",-33.667,21.867,"",3
+"118","Elands Bay Cave","Pta-1816",3780,85,"Wilton",-32.317,18.318,"plant remains",1
+"119","Hoffman's Robberg Cave","UW-205",3770,100,"Wilton",-34.105951,23.388,"marine shell",2
+"120","Jubilee Shelter","Pta-3563 ",3730,60,"Wilton",-25.683,27.983,"charcoal",3
+"121","Blydefontein","SR-152",3650,120,"Wilton",-31.133,25.05,"charcoal",1
+"122","Steenbokfontein","Pta-6805",3640,60,"Wilton",-32.162,18.333,"marine shell",2
+"123","Steenbokfontein","Pta-7020",3635,30,"Wilton",-32.162,18.333,"marine shell",3
+"124","Blombosfontein 6","Pta-6709",3630,70,"Wilton",-34.4,21.217,"marine shell",1
+"125","Byneskranskop 1","OxA-32677",3599,28,"Wilton",-34.583,19.467,"bone",2
+"126","Elands Bay Cave","Pta-5594",3590,60,"Wilton",-32.317,18.318,"charcoal",3
+"127","Pancho's Kitchen Midden","Pta-5743",3570,60,"Wilton",-32.339,18.333,"",1
+"128","Maqonqo Shelter","Pta-6244 ",3560,60,"Wilton",-28.344,30.424,"charcoal",2
+"129","Matjies River","GrN-5888",3555,35,"Wilton",-34.017,23.417,"marine shell",3
+"130","Tortoise Cave","Pta-3604",3520,60,"Wilton",-32.341,18.399,"charcoal",1
+"131","Elands Bay Cave","Pta-687",3510,45,"Wilton",-32.317,18.318,"plant remains",2
+"132","Spring Cave","Pta-4027",3510,60,"Wilton",-32.322,18.336,"charcoal",3
+"133","Steenbokfontein","Pta-6794",3510,50,"Wilton",-32.162,18.333,"marine shell",1
+"134","Elands Bay Cave","Pta-841",3450,50,"Wilton",-32.317,18.318,"plant remains",2
+"135","Oakhurst","Pta-520 ",3450,55,"Wilton",-33.933,22.617,"charcoal",3
+"136","Zoovoorbij","Pta-2893",3440,60,"Wilton",-28.65,20.967,"charcoal",1
+"137","Tortoise Cave","Pta-5662",3410,60,"Wilton",-32.341,18.399,"marine shell",2
+"138","Dune Field Midden","CAMS-113297",3325,35,"Wilton",-32.301,18.348,"marine shell",3
+"139","Jubilee Shelter","Wits-1449 ",3250,60,"Wilton",-25.683,27.983,"charcoal",1
+"140","Hoffman's Robberg Cave","UW-204",3190,110,"Wilton",-34.105951,23.388,"marine shell",2
+"141","Tortoise Cave","Pta-5498",3160,60,"Wilton",-32.341,18.399,"marine shell",3
+"142","Blydefontein","SMU-1849",3135,33,"Wilton",-31.133,25.05,"charcoal",1
+"143","Jagt Pan 1","Pta-4516",3120,140,"Wilton",-30.4,21.4,"",2
+"144","Jubilee Shelter","Wits-1214 ",3100,150,"Wilton",-25.683,27.983,"charcoal",3
+"145","Blydefontein","SR-142",3090,100,"Wilton",-31.133,25.05,"charcoal",1
+"146","Pancho's Kitchen Midden","Pta-5923",3060,60,"Wilton",-32.339,18.333,"",2
+"147","Spring Cave","Pta-4033",2970,60,"Wilton",-32.322,18.336,"charcoal",3
+"148","Elands Bay Cave","GaK-4339",2950,115,"Wilton",-32.317,18.318,"plant remains",1
+"149","Numas Schlucht Cave (Lower Numas Cave)","Pta-179",2950,65,"Wilton",-21.117,14.417,"charcoal",2
+"150","Pancho's Kitchen Midden","Pta-5990",2940,20,"Wilton",-32.339,18.333,"",3
+"151","Elands Bay Open","Pta-6265",2920,60,"Wilton",-32.317,18.316,"",1
+"152","Numas Schlucht Cave (Lower Numas Cave)","Pta-178",2890,65,"Wilton",-21.117,14.417,"charcoal",2
+"153","Zoovoorbij","Pta-2871",2860,45,"Wilton",-28.65,20.967,"charcoal",3
+"154","Zoovoorbij","Pta-2888",2860,45,"Wilton",-28.65,20.967,"charcoal",1
+"155","Zoovoorbij","Pta-2870",2800,60,"Wilton",-28.65,20.967,"charcoal",2
+"156","Blydefontein","OxA-27365",2791,25,"Wilton",-31.133,25.05,"bone",3
+"157","Blydefontein","D-AMS-1231",2728,32,"Wilton",-31.133,25.05,"bone",1
+"158","Springbokoog 13","Pta-4664",2710,50,"Wilton",-30.217,21.533,"eggshell",2
+"159","Springbokoog 5","Pta-4205",2630,50,"Wilton",-30.217,21.533,"eggshell",3
+"160","Springbokoog 13","Pta-4653",2520,60,"Wilton",-30.217,21.533,"eggshell",1
+"161","Meerlust 1","Pta-4511",2390,50,"Wilton",-27.65,22.433,"eggshell",2
