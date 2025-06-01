@@ -109,8 +109,10 @@ dir <- here::here()
 ```
 
 ```{r}
+# import data
 SARD.df <- read.csv(paste0(dir,"/data/SARD_Mar2021_14C.csv"))
 
+# convert into a format suitable for radiocarbon calibration
 SARD.df |>
   rename(site = X.Site,
          c14age = Date,
@@ -122,16 +124,17 @@ SARD.df |>
 
 ##########################
 
-my_map.df <- SARD.df |> dplyr::filter(!is.na(DecdegE))
-
+# filter data by date
 sard.map <- SARD.df |>
   mutate(Date = as.numeric(Date)) |>
   filter(Date < 12000 & Date > 4000)
 
+# Summarize the number of chronology types in the filtered data
 sard.map |>
   group_by(Archaeological.Sub.chronology) |>
   summarize(n())
 
+# Create an uncalibrated list of radiocarbon dates and export to a CSV
 sard.map |> dplyr::select(X.Site, DecdegS, DecdegE, 
                           Country, Biome,
                           Date, Uncertainty, 
@@ -159,11 +162,15 @@ SARD_Oak_Wil |>
   filter(c14age > quantile(c14age, 0.05) &
            c14age < quantile(c14age, 0.95)) -> SARD_Oak_trimmed
 
+write.csv(SARD_Oak_trimmed, paste0(dir,"/data/SARD_Oak_Trimmed.csv"))
+
 # Select and trim Wilton dates
 SARD_Oak_Wil |>
   filter(culture == "Wilton") |>
   filter(c14age > quantile(c14age, 0.05) &
            c14age < quantile(c14age, 0.95)) -> SARD_Wil_trimmed
+
+write.csv(SARD_Wil_trimmed, paste0(dir,"/data/SARD_Wil_Trimmed.csv"))
 
 
 # Select all data based on Oakhurst and Wilton time periods
@@ -174,10 +181,12 @@ SARD |>
 SARD_All |>
   filter(c14age < max(SARD_Oak_trimmed$c14age) &
                  c14age > min(SARD_Oak_trimmed$c14age)) -> SARD_All_Oak
+write.csv(SARD_All_Oak, paste0(dir,"SARD_All_Oak_Trimmed.csv"))
 
 SARD_All |>
   filter(c14age < max(SARD_Wil_trimmed$c14age) &
                  c14age > min(SARD_Wil_trimmed$c14age)) -> SARD_All_Wil
+write.csv(SARD_All_Wil, paste0(dir,"SARD_All_Wil_Trimmed.csv"))
 
 
 
@@ -301,6 +310,8 @@ write.csv(SARD_Wil_RFZ, paste0(dir,"/data/SARD_Wil_YRZ.csv"))
 ```{r}
 #| include: false
 
+#############################################
+# This code is used for filtering sites based on amount and timing of radiocarbon data. I used this code to explore which sites are worth a closer exmaination
 
 SARD |> group_by(site, culture) |> filter(culture == "Oakhurst" | culture == "Wilton") |> 
   dplyr::distinct(site, culture) |>
@@ -354,6 +365,9 @@ SARD |>
 ```{r compare_ElandsBayCave}
 #| include: false
 
+###########################################
+# This is an extension from the above code chunk which compiles tabulated data on Elands Bay Cave to examine trends through time
+
 # Take lithic data from Orton, 2006 and non-lithic data from Jerardino, 2021
 El <- tibble(
   Artifact = c("Beads", "Ochre", "Processing Tools", "Fish Gorges", "VOlume"),
@@ -390,6 +404,7 @@ plot(spd(caldates, bins, timeRange = c(17000,2000)), add = F)
 # Figure 2: Example Summed Distribution
 
 ```{r}
+# filter and organize data to be calibrated by c14bazaar
 df.sard <- as.c14_date_list(SARD) |>
   rename(labnr = Lab.ID) |>
   filter(is.na(c14age)==FALSE &
@@ -412,19 +427,18 @@ plot(DK.spd)
 # Figure 3: Example Datatset for Process and REC
 
 ```{r}
-samp.int <- 2000
-samp.times <- 10000:8001
-samp.beta <- 0.04
-samp.process <- sqrt(samp.beta*(1:samp.int))
-samp.nevents <- 500
+samp.int <- 2000 # define time interval we will examine (in years)
+samp.times <- 10000:8001 # define the boundary for the interval
+samp.beta <- 0.04 # define the beta coeficient to define the probability distribution
+samp.process <- sqrt(samp.beta*(1:samp.int)) # create probability distribution
+samp.nevents <- 500 # number of example dates with the 2,000 year interval
 
-samp.nsamples <- 20000
+samp.nsamples <- 20000 # number of samples to take
 samp.sim_sequences <- simulate_event_counts(process = samp.process,
                             times = samp.times,
                             nevents = samp.nevents,
                             nsamples = samp.nsamples,
                             parallel = T)
-
 
 
 plot(y = samp.process,
@@ -453,6 +467,7 @@ plot_count_ensemble.mod(count_ensemble = samp.sim_sequences$count_ensemble,
 # Figure 4: RECE for 12-3 ka cal. BP (radiocarbon)
 
 ```{r}
+# This code creates an ensemble from 12-3 thousand years ago
 nintervals <- 1000
 times <- list(min = 3000, max = 11250) # min = 3000 to avoid pastoral dates
 times <- times[[2]]:times[[1]]
